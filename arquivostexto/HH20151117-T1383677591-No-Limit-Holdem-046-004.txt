@@ -1,0 +1,1020 @@
+﻿PokerStars Hand #143987811449: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:14:22 BRT [2015/11/17 17:14:22 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (500 in chips) 
+Seat 2: Gust8077 (500 in chips) 
+Seat 3: PacnyTuH0 (500 in chips) 
+Gust8077: posts small blind 10
+PacnyTuH0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [5s 4s]
+hairball91: calls 20
+Gust8077: calls 10
+PacnyTuH0: checks 
+*** FLOP *** [Ts Jh 5c]
+Gust8077: checks 
+PacnyTuH0: checks 
+hairball91: bets 40
+Gust8077: folds 
+PacnyTuH0: folds 
+Uncalled bet (40) returned to hairball91
+hairball91 collected 60 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts Jh 5c]
+Seat 1: hairball91 (button) collected (60)
+Seat 2: Gust8077 (small blind) folded on the Flop
+Seat 3: PacnyTuH0 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #143987828928: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:14:42 BRT [2015/11/17 17:14:42 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (540 in chips) 
+Seat 2: Gust8077 (480 in chips) 
+Seat 3: PacnyTuH0 (480 in chips) 
+PacnyTuH0: posts small blind 10
+hairball91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qc 9d]
+Gust8077: raises 20 to 40
+PacnyTuH0: folds 
+hairball91: folds 
+Uncalled bet (20) returned to Gust8077
+Gust8077 collected 50 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: hairball91 (big blind) folded before Flop
+Seat 2: Gust8077 (button) collected (50)
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143987839191: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:14:53 BRT [2015/11/17 17:14:53 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (520 in chips) 
+Seat 2: Gust8077 (510 in chips) 
+Seat 3: PacnyTuH0 (470 in chips) 
+hairball91: posts small blind 10
+Gust8077: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [4h 7c]
+PacnyTuH0: raises 20 to 40
+hairball91: folds 
+Gust8077: folds 
+Uncalled bet (20) returned to PacnyTuH0
+PacnyTuH0 collected 50 from pot
+PacnyTuH0: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: hairball91 (small blind) folded before Flop
+Seat 2: Gust8077 (big blind) folded before Flop
+Seat 3: PacnyTuH0 (button) collected (50)
+
+
+
+PokerStars Hand #143987845538: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:15:01 BRT [2015/11/17 17:15:01 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (510 in chips) 
+Seat 2: Gust8077 (490 in chips) 
+Seat 3: PacnyTuH0 (500 in chips) 
+Gust8077: posts small blind 10
+PacnyTuH0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [9s 9d]
+hairball91: folds 
+Gust8077: raises 20 to 40
+PacnyTuH0: folds 
+Uncalled bet (20) returned to Gust8077
+Gust8077 collected 40 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: hairball91 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) collected (40)
+Seat 3: PacnyTuH0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143987852340: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:15:08 BRT [2015/11/17 17:15:08 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (510 in chips) 
+Seat 2: Gust8077 (510 in chips) 
+Seat 3: PacnyTuH0 (480 in chips) 
+PacnyTuH0: posts small blind 10
+hairball91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [4c Qc]
+Gust8077: raises 20 to 40
+PacnyTuH0: folds 
+hairball91: folds 
+Uncalled bet (20) returned to Gust8077
+Gust8077 collected 50 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: hairball91 (big blind) folded before Flop
+Seat 2: Gust8077 (button) collected (50)
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143987860854: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:15:18 BRT [2015/11/17 17:15:18 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (490 in chips) 
+Seat 2: Gust8077 (540 in chips) 
+Seat 3: PacnyTuH0 (470 in chips) 
+hairball91: posts small blind 10
+Gust8077: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [8d Qh]
+PacnyTuH0: raises 20 to 40
+hairball91: folds 
+Gust8077: calls 20
+*** FLOP *** [7d 5c 6s]
+Gust8077: checks 
+PacnyTuH0: bets 60
+Gust8077: raises 60 to 120
+PacnyTuH0: folds 
+Uncalled bet (60) returned to Gust8077
+Gust8077 collected 210 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [7d 5c 6s]
+Seat 1: hairball91 (small blind) folded before Flop
+Seat 2: Gust8077 (big blind) collected (210)
+Seat 3: PacnyTuH0 (button) folded on the Flop
+
+
+
+PokerStars Hand #143987883338: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:15:43 BRT [2015/11/17 17:15:43 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (480 in chips) 
+Seat 2: Gust8077 (650 in chips) 
+Seat 3: PacnyTuH0 (370 in chips) 
+Gust8077: posts small blind 10
+PacnyTuH0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [8s Ac]
+hairball91: folds 
+Gust8077: raises 20 to 40
+PacnyTuH0: calls 20
+*** FLOP *** [Kc 7c 9s]
+Gust8077: checks 
+PacnyTuH0: bets 60
+Gust8077: folds 
+Uncalled bet (60) returned to PacnyTuH0
+PacnyTuH0 collected 80 from pot
+PacnyTuH0: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc 7c 9s]
+Seat 1: hairball91 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) folded on the Flop
+Seat 3: PacnyTuH0 (big blind) collected (80)
+
+
+
+PokerStars Hand #143987901462: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:16:03 BRT [2015/11/17 17:16:03 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (480 in chips) 
+Seat 2: Gust8077 (610 in chips) 
+Seat 3: PacnyTuH0 (410 in chips) 
+PacnyTuH0: posts small blind 10
+hairball91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ac Qs]
+Gust8077: raises 20 to 40
+PacnyTuH0: folds 
+hairball91: calls 20
+*** FLOP *** [6s 5d Qd]
+hairball91: checks 
+Gust8077: bets 40
+hairball91: folds 
+Uncalled bet (40) returned to Gust8077
+Gust8077 collected 90 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6s 5d Qd]
+Seat 1: hairball91 (big blind) folded on the Flop
+Seat 2: Gust8077 (button) collected (90)
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143987927514: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:16:32 BRT [2015/11/17 17:16:32 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (440 in chips) 
+Seat 2: Gust8077 (660 in chips) 
+Seat 3: PacnyTuH0 (400 in chips) 
+hairball91: posts small blind 10
+Gust8077: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qc Ah]
+PacnyTuH0: folds 
+hairball91: calls 10
+Gust8077: raises 30 to 50
+hairball91: calls 30
+*** FLOP *** [Ad 4s 5s]
+hairball91: bets 40
+Gust8077: calls 40
+*** TURN *** [Ad 4s 5s] [Th]
+hairball91: bets 120
+Gust8077: raises 230 to 350
+hairball91: folds 
+Uncalled bet (230) returned to Gust8077
+Gust8077 collected 420 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Ad 4s 5s Th]
+Seat 1: hairball91 (small blind) folded on the Turn
+Seat 2: Gust8077 (big blind) collected (420)
+Seat 3: PacnyTuH0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143987950728: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:16:58 BRT [2015/11/17 17:16:58 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (230 in chips) 
+Seat 2: Gust8077 (870 in chips) 
+Seat 3: PacnyTuH0 (400 in chips) 
+Gust8077: posts small blind 10
+PacnyTuH0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [2h 4h]
+hairball91: raises 20 to 40
+Gust8077: folds 
+PacnyTuH0: folds 
+Uncalled bet (20) returned to hairball91
+hairball91 collected 50 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: hairball91 (button) collected (50)
+Seat 2: Gust8077 (small blind) folded before Flop
+Seat 3: PacnyTuH0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143987957230: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:17:06 BRT [2015/11/17 17:17:06 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (260 in chips) 
+Seat 2: Gust8077 (860 in chips) 
+Seat 3: PacnyTuH0 (380 in chips) 
+PacnyTuH0: posts small blind 10
+hairball91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ah 4d]
+Gust8077: raises 20 to 40
+PacnyTuH0: folds 
+hairball91: folds 
+Uncalled bet (20) returned to Gust8077
+Gust8077 collected 50 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: hairball91 (big blind) folded before Flop
+Seat 2: Gust8077 (button) collected (50)
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143987963891: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:17:13 BRT [2015/11/17 17:17:13 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (240 in chips) 
+Seat 2: Gust8077 (890 in chips) 
+Seat 3: PacnyTuH0 (370 in chips) 
+hairball91: posts small blind 10
+Gust8077: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qd 3s]
+PacnyTuH0: folds 
+hairball91: folds 
+Uncalled bet (10) returned to Gust8077
+Gust8077 collected 20 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: hairball91 (small blind) folded before Flop
+Seat 2: Gust8077 (big blind) collected (20)
+Seat 3: PacnyTuH0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143987968757: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2015/11/17 20:17:19 BRT [2015/11/17 17:17:19 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (230 in chips) 
+Seat 2: Gust8077 (900 in chips) 
+Seat 3: PacnyTuH0 (370 in chips) 
+Gust8077: posts small blind 10
+PacnyTuH0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [6h 7s]
+hairball91: raises 40 to 60
+Gust8077: folds 
+PacnyTuH0: folds 
+Uncalled bet (40) returned to hairball91
+hairball91 collected 50 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: hairball91 (button) collected (50)
+Seat 2: Gust8077 (small blind) folded before Flop
+Seat 3: PacnyTuH0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143987978295: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:17:29 BRT [2015/11/17 17:17:29 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (260 in chips) 
+Seat 2: Gust8077 (890 in chips) 
+Seat 3: PacnyTuH0 (350 in chips) 
+PacnyTuH0: posts small blind 15
+hairball91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [8s 9c]
+Gust8077: raises 30 to 60
+PacnyTuH0: folds 
+hairball91: folds 
+Uncalled bet (30) returned to Gust8077
+Gust8077 collected 75 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: hairball91 (big blind) folded before Flop
+Seat 2: Gust8077 (button) collected (75)
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143987982167: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:17:34 BRT [2015/11/17 17:17:34 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (230 in chips) 
+Seat 2: Gust8077 (935 in chips) 
+Seat 3: PacnyTuH0 (335 in chips) 
+hairball91: posts small blind 15
+Gust8077: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [5h Ac]
+PacnyTuH0: folds 
+hairball91: raises 60 to 90
+Gust8077: raises 845 to 935 and is all-in
+hairball91: calls 140 and is all-in
+Uncalled bet (705) returned to Gust8077
+*** FLOP *** [6s 5s Js]
+*** TURN *** [6s 5s Js] [4s]
+*** RIVER *** [6s 5s Js 4s] [9c]
+*** SHOW DOWN ***
+hairball91: shows [8h 7h] (a straight, Five to Nine)
+Gust8077: shows [5h Ac] (a pair of Fives)
+hairball91 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [6s 5s Js 4s 9c]
+Seat 1: hairball91 (small blind) showed [8h 7h] and won (460) with a straight, Five to Nine
+Seat 2: Gust8077 (big blind) showed [5h Ac] and lost with a pair of Fives
+Seat 3: PacnyTuH0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143988000104: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:17:53 BRT [2015/11/17 17:17:53 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (460 in chips) 
+Seat 2: Gust8077 (705 in chips) 
+Seat 3: PacnyTuH0 (335 in chips) 
+Gust8077: posts small blind 15
+PacnyTuH0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [Jc 5s]
+hairball91: folds 
+Gust8077: raises 30 to 60
+PacnyTuH0: folds 
+Uncalled bet (30) returned to Gust8077
+Gust8077 collected 60 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: hairball91 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) collected (60)
+Seat 3: PacnyTuH0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143988012742: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:18:08 BRT [2015/11/17 17:18:08 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (460 in chips) 
+Seat 2: Gust8077 (735 in chips) 
+Seat 3: PacnyTuH0 (305 in chips) 
+PacnyTuH0: posts small blind 15
+hairball91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [Th Jd]
+Gust8077: raises 30 to 60
+PacnyTuH0: folds 
+hairball91: calls 30
+*** FLOP *** [Js As 9c]
+hairball91: checks 
+Gust8077: checks 
+*** TURN *** [Js As 9c] [9s]
+hairball91: checks 
+Gust8077: checks 
+*** RIVER *** [Js As 9c 9s] [2d]
+hairball91: bets 90
+Gust8077: calls 90
+*** SHOW DOWN ***
+hairball91: shows [4d 4h] (two pair, Nines and Fours)
+Gust8077: shows [Th Jd] (two pair, Jacks and Nines)
+Gust8077 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Board [Js As 9c 9s 2d]
+Seat 1: hairball91 (big blind) showed [4d 4h] and lost with two pair, Nines and Fours
+Seat 2: Gust8077 (button) showed [Th Jd] and won (315) with two pair, Jacks and Nines
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143988030033: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:18:27 BRT [2015/11/17 17:18:27 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (310 in chips) 
+Seat 2: Gust8077 (900 in chips) 
+Seat 3: PacnyTuH0 (290 in chips) 
+hairball91: posts small blind 15
+Gust8077: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [2h 9c]
+PacnyTuH0: folds 
+hairball91: raises 30 to 60
+Gust8077: folds 
+Uncalled bet (30) returned to hairball91
+hairball91 collected 60 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: hairball91 (small blind) collected (60)
+Seat 2: Gust8077 (big blind) folded before Flop
+Seat 3: PacnyTuH0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143988038056: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:18:35 BRT [2015/11/17 17:18:35 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (340 in chips) 
+Seat 2: Gust8077 (870 in chips) 
+Seat 3: PacnyTuH0 (290 in chips) 
+Gust8077: posts small blind 15
+PacnyTuH0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [6s Qs]
+hairball91: folds 
+Gust8077: raises 30 to 60
+PacnyTuH0: raises 230 to 290 and is all-in
+Gust8077: folds 
+Uncalled bet (230) returned to PacnyTuH0
+PacnyTuH0 collected 120 from pot
+PacnyTuH0: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: hairball91 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) folded before Flop
+Seat 3: PacnyTuH0 (big blind) collected (120)
+
+
+
+PokerStars Hand #143988056749: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:18:56 BRT [2015/11/17 17:18:56 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (340 in chips) 
+Seat 2: Gust8077 (810 in chips) 
+Seat 3: PacnyTuH0 (350 in chips) 
+PacnyTuH0: posts small blind 15
+hairball91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [9c 2h]
+Gust8077: folds 
+PacnyTuH0: raises 320 to 350 and is all-in
+hairball91: folds 
+Uncalled bet (320) returned to PacnyTuH0
+PacnyTuH0 collected 60 from pot
+PacnyTuH0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: hairball91 (big blind) folded before Flop
+Seat 2: Gust8077 (button) folded before Flop (didn't bet)
+Seat 3: PacnyTuH0 (small blind) collected (60)
+
+
+
+PokerStars Hand #143988069581: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:19:11 BRT [2015/11/17 17:19:11 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (310 in chips) 
+Seat 2: Gust8077 (810 in chips) 
+Seat 3: PacnyTuH0 (380 in chips) 
+hairball91: posts small blind 15
+Gust8077: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [3c 6s]
+PacnyTuH0: folds 
+hairball91: calls 15
+Gust8077: checks 
+*** FLOP *** [2c 6h 9c]
+hairball91: checks 
+Gust8077: bets 30
+hairball91: calls 30
+*** TURN *** [2c 6h 9c] [Ks]
+hairball91: checks 
+Gust8077: bets 45
+hairball91: folds 
+Uncalled bet (45) returned to Gust8077
+Gust8077 collected 120 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 6h 9c Ks]
+Seat 1: hairball91 (small blind) folded on the Turn
+Seat 2: Gust8077 (big blind) collected (120)
+Seat 3: PacnyTuH0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143988097501: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:19:42 BRT [2015/11/17 17:19:42 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (250 in chips) 
+Seat 2: Gust8077 (870 in chips) 
+Seat 3: PacnyTuH0 (380 in chips) 
+Gust8077: posts small blind 15
+PacnyTuH0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [8s 3h]
+hairball91: folds 
+Gust8077: folds 
+Uncalled bet (15) returned to PacnyTuH0
+PacnyTuH0 collected 30 from pot
+PacnyTuH0: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: hairball91 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) folded before Flop
+Seat 3: PacnyTuH0 (big blind) collected (30)
+
+
+
+PokerStars Hand #143988103541: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:19:49 BRT [2015/11/17 17:19:49 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (250 in chips) 
+Seat 2: Gust8077 (855 in chips) 
+Seat 3: PacnyTuH0 (395 in chips) 
+PacnyTuH0: posts small blind 15
+hairball91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [3s 7c]
+Gust8077: folds 
+PacnyTuH0: folds 
+Uncalled bet (15) returned to hairball91
+hairball91 collected 30 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: hairball91 (big blind) collected (30)
+Seat 2: Gust8077 (button) folded before Flop (didn't bet)
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143988109168: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:19:55 BRT [2015/11/17 17:19:55 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (265 in chips) 
+Seat 2: Gust8077 (855 in chips) 
+Seat 3: PacnyTuH0 (380 in chips) 
+hairball91: posts small blind 15
+Gust8077: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [6c Jd]
+PacnyTuH0: folds 
+hairball91: raises 60 to 90
+Gust8077: folds 
+Uncalled bet (60) returned to hairball91
+hairball91 collected 60 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: hairball91 (small blind) collected (60)
+Seat 2: Gust8077 (big blind) folded before Flop
+Seat 3: PacnyTuH0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143988120840: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2015/11/17 20:20:08 BRT [2015/11/17 17:20:08 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (295 in chips) 
+Seat 2: Gust8077 (825 in chips) 
+Seat 3: PacnyTuH0 (380 in chips) 
+Gust8077: posts small blind 15
+PacnyTuH0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [8c Qc]
+hairball91: folds 
+Gust8077: raises 30 to 60
+PacnyTuH0: folds 
+Uncalled bet (30) returned to Gust8077
+Gust8077 collected 60 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: hairball91 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) collected (60)
+Seat 3: PacnyTuH0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143988138511: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:20:29 BRT [2015/11/17 17:20:29 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (295 in chips) 
+Seat 2: Gust8077 (855 in chips) 
+Seat 3: PacnyTuH0 (350 in chips) 
+PacnyTuH0: posts small blind 20
+hairball91: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [4s Js]
+Gust8077: folds 
+PacnyTuH0: folds 
+Uncalled bet (20) returned to hairball91
+hairball91 collected 40 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: hairball91 (big blind) collected (40)
+Seat 2: Gust8077 (button) folded before Flop (didn't bet)
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143988147014: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:20:38 BRT [2015/11/17 17:20:38 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (315 in chips) 
+Seat 2: Gust8077 (855 in chips) 
+Seat 3: PacnyTuH0 (330 in chips) 
+hairball91: posts small blind 20
+Gust8077: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [4c 3s]
+PacnyTuH0: folds 
+hairball91: calls 20
+Gust8077: checks 
+*** FLOP *** [Th 3d Jc]
+hairball91: bets 40
+Gust8077: folds 
+Uncalled bet (40) returned to hairball91
+hairball91 collected 80 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th 3d Jc]
+Seat 1: hairball91 (small blind) collected (80)
+Seat 2: Gust8077 (big blind) folded on the Flop
+Seat 3: PacnyTuH0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143988158221: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:20:51 BRT [2015/11/17 17:20:51 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (355 in chips) 
+Seat 2: Gust8077 (815 in chips) 
+Seat 3: PacnyTuH0 (330 in chips) 
+Gust8077: posts small blind 20
+PacnyTuH0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [2c 5h]
+hairball91: raises 80 to 120
+Gust8077: folds 
+PacnyTuH0: folds 
+Uncalled bet (80) returned to hairball91
+hairball91 collected 100 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: hairball91 (button) collected (100)
+Seat 2: Gust8077 (small blind) folded before Flop
+Seat 3: PacnyTuH0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143988165834: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:21:00 BRT [2015/11/17 17:21:00 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (415 in chips) 
+Seat 2: Gust8077 (795 in chips) 
+Seat 3: PacnyTuH0 (290 in chips) 
+PacnyTuH0: posts small blind 20
+hairball91: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [9c 4h]
+Gust8077: folds 
+PacnyTuH0: folds 
+Uncalled bet (20) returned to hairball91
+hairball91 collected 40 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: hairball91 (big blind) collected (40)
+Seat 2: Gust8077 (button) folded before Flop (didn't bet)
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143988169355: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:21:04 BRT [2015/11/17 17:21:04 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (435 in chips) 
+Seat 2: Gust8077 (795 in chips) 
+Seat 3: PacnyTuH0 (270 in chips) 
+hairball91: posts small blind 20
+Gust8077: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qc 6s]
+PacnyTuH0: folds 
+hairball91: raises 40 to 80
+Gust8077: calls 40
+*** FLOP *** [Ks Ts 3s]
+hairball91: bets 80
+Gust8077: folds 
+Uncalled bet (80) returned to hairball91
+hairball91 collected 160 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ks Ts 3s]
+Seat 1: hairball91 (small blind) collected (160)
+Seat 2: Gust8077 (big blind) folded on the Flop
+Seat 3: PacnyTuH0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143988183323: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:21:20 BRT [2015/11/17 17:21:20 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (515 in chips) 
+Seat 2: Gust8077 (715 in chips) 
+Seat 3: PacnyTuH0 (270 in chips) 
+Gust8077: posts small blind 20
+PacnyTuH0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [5d Qh]
+hairball91: folds 
+Gust8077: raises 675 to 715 and is all-in
+PacnyTuH0: folds 
+Uncalled bet (675) returned to Gust8077
+Gust8077 collected 80 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: hairball91 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) collected (80)
+Seat 3: PacnyTuH0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143988194981: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:21:33 BRT [2015/11/17 17:21:33 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (515 in chips) 
+Seat 2: Gust8077 (755 in chips) 
+Seat 3: PacnyTuH0 (230 in chips) 
+PacnyTuH0: posts small blind 20
+hairball91: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qs 2c]
+Gust8077: folds 
+PacnyTuH0: folds 
+Uncalled bet (20) returned to hairball91
+hairball91 collected 40 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: hairball91 (big blind) collected (40)
+Seat 2: Gust8077 (button) folded before Flop (didn't bet)
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143988204273: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:21:44 BRT [2015/11/17 17:21:44 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (535 in chips) 
+Seat 2: Gust8077 (755 in chips) 
+Seat 3: PacnyTuH0 (210 in chips) 
+hairball91: posts small blind 20
+Gust8077: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ts Qd]
+PacnyTuH0: folds 
+hairball91: raises 80 to 120
+Gust8077: raises 635 to 755 and is all-in
+hairball91: folds 
+Uncalled bet (635) returned to Gust8077
+Gust8077 collected 240 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: hairball91 (small blind) folded before Flop
+Seat 2: Gust8077 (big blind) collected (240)
+Seat 3: PacnyTuH0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143988219688: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:22:01 BRT [2015/11/17 17:22:01 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (415 in chips) 
+Seat 2: Gust8077 (875 in chips) 
+Seat 3: PacnyTuH0 (210 in chips) 
+Gust8077: posts small blind 20
+PacnyTuH0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ac Qh]
+hairball91: folds 
+Gust8077: raises 835 to 875 and is all-in
+PacnyTuH0: folds 
+Uncalled bet (835) returned to Gust8077
+Gust8077 collected 80 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: hairball91 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) collected (80)
+Seat 3: PacnyTuH0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143988225273: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:22:08 BRT [2015/11/17 17:22:08 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (415 in chips) 
+Seat 2: Gust8077 (915 in chips) 
+Seat 3: PacnyTuH0 (170 in chips) 
+PacnyTuH0: posts small blind 20
+hairball91: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qh Ah]
+Gust8077: raises 40 to 80
+PacnyTuH0: folds 
+hairball91: folds 
+Uncalled bet (40) returned to Gust8077
+Gust8077 collected 100 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: hairball91 (big blind) folded before Flop
+Seat 2: Gust8077 (button) collected (100)
+Seat 3: PacnyTuH0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143988235695: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:22:19 BRT [2015/11/17 17:22:19 ET]
+Table '1383677591 1' 3-max Seat #3 is the button
+Seat 1: hairball91 (375 in chips) 
+Seat 2: Gust8077 (975 in chips) 
+Seat 3: PacnyTuH0 (150 in chips) 
+hairball91: posts small blind 20
+Gust8077: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [6c 9s]
+PacnyTuH0: folds 
+hairball91: folds 
+Uncalled bet (20) returned to Gust8077
+Gust8077 collected 40 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: hairball91 (small blind) folded before Flop
+Seat 2: Gust8077 (big blind) collected (40)
+Seat 3: PacnyTuH0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143988240224: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:22:25 BRT [2015/11/17 17:22:25 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (355 in chips) 
+Seat 2: Gust8077 (995 in chips) 
+Seat 3: PacnyTuH0 (150 in chips) 
+Gust8077: posts small blind 20
+PacnyTuH0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [6s 9d]
+hairball91: folds 
+Gust8077: calls 20
+PacnyTuH0: raises 110 to 150 and is all-in
+Gust8077: calls 110
+*** FLOP *** [6h Ah Th]
+*** TURN *** [6h Ah Th] [6d]
+*** RIVER *** [6h Ah Th 6d] [8s]
+*** SHOW DOWN ***
+Gust8077: shows [6s 9d] (three of a kind, Sixes)
+PacnyTuH0: shows [Jd Qd] (a pair of Sixes)
+Gust8077 collected 300 from pot
+PacnyTuH0 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6h Ah Th 6d 8s]
+Seat 1: hairball91 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) showed [6s 9d] and won (300) with three of a kind, Sixes
+Seat 3: PacnyTuH0 (big blind) showed [Jd Qd] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #143988262402: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:22:50 BRT [2015/11/17 17:22:50 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (355 in chips) 
+Seat 2: Gust8077 (1145 in chips) 
+Gust8077: posts small blind 20
+hairball91: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [Td 3d]
+Gust8077: folds 
+Uncalled bet (20) returned to hairball91
+hairball91 collected 40 from pot
+hairball91: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: hairball91 (big blind) collected (40)
+Seat 2: Gust8077 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #143988267387: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:22:55 BRT [2015/11/17 17:22:55 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (375 in chips) 
+Seat 2: Gust8077 (1125 in chips) 
+hairball91: posts small blind 20
+Gust8077: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [4h Th]
+hairball91: calls 20
+Gust8077: checks 
+*** FLOP *** [Qs Td 9h]
+Gust8077: checks 
+hairball91: bets 40
+Gust8077: calls 40
+*** TURN *** [Qs Td 9h] [6h]
+Gust8077: checks 
+hairball91: checks 
+*** RIVER *** [Qs Td 9h 6h] [2d]
+Gust8077: checks 
+hairball91: checks 
+*** SHOW DOWN ***
+Gust8077: shows [4h Th] (a pair of Tens)
+hairball91: mucks hand 
+Gust8077 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs Td 9h 6h 2d]
+Seat 1: hairball91 (button) (small blind) mucked [5c 3c]
+Seat 2: Gust8077 (big blind) showed [4h Th] and won (160) with a pair of Tens
+
+
+
+PokerStars Hand #143988288480: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2015/11/17 20:23:20 BRT [2015/11/17 17:23:20 ET]
+Table '1383677591 1' 3-max Seat #2 is the button
+Seat 1: hairball91 (295 in chips) 
+Seat 2: Gust8077 (1205 in chips) 
+Gust8077: posts small blind 20
+hairball91: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ks 8s]
+Gust8077: raises 1165 to 1205 and is all-in
+hairball91: folds 
+Uncalled bet (1165) returned to Gust8077
+Gust8077 collected 80 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: hairball91 (big blind) folded before Flop
+Seat 2: Gust8077 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #143988299977: Tournament #1383677591, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2015/11/17 20:23:33 BRT [2015/11/17 17:23:33 ET]
+Table '1383677591 1' 3-max Seat #1 is the button
+Seat 1: hairball91 (255 in chips) 
+Seat 2: Gust8077 (1245 in chips) 
+hairball91: posts small blind 30
+Gust8077: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Gust8077 [Kc Ts]
+hairball91: calls 30
+Gust8077: raises 1185 to 1245 and is all-in
+hairball91: calls 195 and is all-in
+Uncalled bet (990) returned to Gust8077
+*** FLOP *** [Ad 5s 2s]
+*** TURN *** [Ad 5s 2s] [Kh]
+*** RIVER *** [Ad 5s 2s Kh] [3s]
+*** SHOW DOWN ***
+Gust8077: shows [Kc Ts] (a pair of Kings)
+hairball91: shows [Qh 2h] (a pair of Deuces)
+Gust8077 collected 510 from pot
+hairball91 finished the tournament in 2nd place
+Gust8077 wins the tournament and receives $1.00 - congratulations!
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Ad 5s 2s Kh 3s]
+Seat 1: hairball91 (button) (small blind) showed [Qh 2h] and lost with a pair of Deuces
+Seat 2: Gust8077 (big blind) showed [Kc Ts] and won (510) with a pair of Kings
+
+
+

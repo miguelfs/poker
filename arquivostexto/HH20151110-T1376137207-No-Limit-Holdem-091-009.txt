@@ -1,0 +1,4258 @@
+﻿PokerStars Hand #143610111751: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:44:33 BRT [2015/11/10 10:44:33 ET]
+Table '1376137207 4' 9-max Seat #1 is the button
+Seat 1: mikimajek (1500 in chips) 
+Seat 2: Adalton04 (1500 in chips) 
+Seat 3: Region322 (1500 in chips) 
+Seat 4: nithinv (1500 in chips) 
+Seat 5: AngryRedFox (1500 in chips) is sitting out
+Seat 6: DenZak1983 (1500 in chips) 
+Seat 7: Zorkkiin (1500 in chips) 
+Seat 8: Flmatta88 (1500 in chips) 
+Seat 9: Gust8077 (1500 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+Adalton04: posts small blind 10
+Region322: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [4h 2h]
+nithinv: folds 
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: folds 
+Uncalled bet (10) returned to Region322
+Region322 collected 47 from pot
+*** SUMMARY ***
+Total pot 47 | Rake 0 
+Seat 1: mikimajek (button) folded before Flop (didn't bet)
+Seat 2: Adalton04 (small blind) folded before Flop
+Seat 3: Region322 (big blind) collected (47)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610123524: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:44:48 BRT [2015/11/10 10:44:48 ET]
+Table '1376137207 4' 9-max Seat #2 is the button
+Seat 1: mikimajek (1497 in chips) 
+Seat 2: Adalton04 (1487 in chips) 
+Seat 3: Region322 (1534 in chips) 
+Seat 4: nithinv (1497 in chips) 
+Seat 5: AngryRedFox (1497 in chips) is sitting out
+Seat 6: DenZak1983 (1497 in chips) 
+Seat 7: Zorkkiin (1497 in chips) 
+Seat 8: Flmatta88 (1497 in chips) 
+Seat 9: Gust8077 (1497 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+Region322: posts small blind 10
+nithinv: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qd Ah]
+AngryRedFox: folds 
+AngryRedFox has returned
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: raises 40 to 60
+Gust8077: calls 60
+mikimajek: folds 
+Adalton04: folds 
+Region322: folds 
+nithinv: folds 
+*** FLOP *** [3h 4h Ac]
+Flmatta88: bets 61
+Gust8077: calls 61
+*** TURN *** [3h 4h Ac] [Jh]
+Flmatta88: checks 
+Gust8077: bets 119
+Flmatta88: folds 
+Uncalled bet (119) returned to Gust8077
+Gust8077 collected 299 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 299 | Rake 0 
+Board [3h 4h Ac Jh]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 (button) folded before Flop (didn't bet)
+Seat 3: Region322 (small blind) folded before Flop
+Seat 4: nithinv (big blind) folded before Flop
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded on the Turn
+Seat 9: Gust8077 collected (299)
+
+
+
+PokerStars Hand #143610162461: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:45:40 BRT [2015/11/10 10:45:40 ET]
+Table '1376137207 4' 9-max Seat #3 is the button
+Seat 1: mikimajek (1494 in chips) 
+Seat 2: Adalton04 (1484 in chips) 
+Seat 3: Region322 (1521 in chips) 
+Seat 4: nithinv (1474 in chips) 
+Seat 5: AngryRedFox (1494 in chips) 
+Seat 6: DenZak1983 (1494 in chips) 
+Seat 7: Zorkkiin (1494 in chips) 
+Seat 8: Flmatta88 (1373 in chips) 
+Seat 9: Gust8077 (1672 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+nithinv: posts small blind 10
+AngryRedFox: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [Kc 7s]
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: raises 60 to 80
+Gust8077: folds 
+mikimajek: calls 80
+Adalton04: folds 
+Region322: folds 
+nithinv: folds 
+AngryRedFox: folds 
+*** FLOP *** [Ad 6d 3c]
+Flmatta88: bets 119
+mikimajek: calls 119
+*** TURN *** [Ad 6d 3c] [Ks]
+Flmatta88: bets 159
+mikimajek: calls 159
+*** RIVER *** [Ad 6d 3c Ks] [8d]
+Flmatta88: checks 
+mikimajek: checks 
+*** SHOW DOWN ***
+Flmatta88: shows [Kh Ah] (two pair, Aces and Kings)
+mikimajek: mucks hand 
+Flmatta88 collected 773 from pot
+*** SUMMARY ***
+Total pot 773 | Rake 0 
+Board [Ad 6d 3c Ks 8d]
+Seat 1: mikimajek mucked [Tc As]
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 3: Region322 (button) folded before Flop (didn't bet)
+Seat 4: nithinv (small blind) folded before Flop
+Seat 5: AngryRedFox (big blind) folded before Flop
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 showed [Kh Ah] and won (773) with two pair, Aces and Kings
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610204230: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:46:35 BRT [2015/11/10 10:46:35 ET]
+Table '1376137207 4' 9-max Seat #4 is the button
+Seat 1: mikimajek (1133 in chips) 
+Seat 2: Adalton04 (1481 in chips) 
+Seat 3: Region322 (1518 in chips) 
+Seat 4: nithinv (1461 in chips) 
+Seat 5: AngryRedFox (1471 in chips) 
+Seat 6: DenZak1983 (1491 in chips) 
+Seat 7: Zorkkiin (1491 in chips) 
+Seat 8: Flmatta88 (1785 in chips) 
+Seat 9: Gust8077 (1669 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+AngryRedFox: posts small blind 10
+DenZak1983: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [2c 6d]
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: folds 
+Region322: folds 
+nithinv: calls 20
+AngryRedFox: folds 
+DenZak1983: checks 
+*** FLOP *** [6h Td 2h]
+DenZak1983: checks 
+nithinv: checks 
+*** TURN *** [6h Td 2h] [Jc]
+DenZak1983: checks 
+nithinv: bets 40
+DenZak1983: folds 
+Uncalled bet (40) returned to nithinv
+nithinv collected 77 from pot
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Board [6h Td 2h Jc]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv (button) collected (77)
+Seat 5: AngryRedFox (small blind) folded before Flop
+Seat 6: DenZak1983 (big blind) folded on the Turn
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610229052: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:47:08 BRT [2015/11/10 10:47:08 ET]
+Table '1376137207 4' 9-max Seat #5 is the button
+Seat 1: mikimajek (1130 in chips) 
+Seat 2: Adalton04 (1478 in chips) 
+Seat 3: Region322 (1515 in chips) 
+Seat 4: nithinv (1515 in chips) 
+Seat 5: AngryRedFox (1458 in chips) 
+Seat 6: DenZak1983 (1468 in chips) 
+Seat 7: Zorkkiin (1488 in chips) 
+Seat 8: Flmatta88 (1782 in chips) 
+Seat 9: Gust8077 (1666 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+DenZak1983: posts small blind 10
+Zorkkiin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ts 4h]
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: folds 
+Region322: raises 40 to 60
+nithinv: folds 
+AngryRedFox: folds 
+DenZak1983: calls 50
+Zorkkiin: calls 40
+*** FLOP *** [6h 2s 8d]
+DenZak1983: checks 
+Zorkkiin: checks 
+Region322: bets 124
+DenZak1983: folds 
+Zorkkiin: folds 
+Uncalled bet (124) returned to Region322
+Region322 collected 207 from pot
+*** SUMMARY ***
+Total pot 207 | Rake 0 
+Board [6h 2s 8d]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 3: Region322 collected (207)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox (button) folded before Flop (didn't bet)
+Seat 6: DenZak1983 (small blind) folded on the Flop
+Seat 7: Zorkkiin (big blind) folded on the Flop
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610273443: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:48:07 BRT [2015/11/10 10:48:07 ET]
+Table '1376137207 4' 9-max Seat #6 is the button
+Seat 1: mikimajek (1127 in chips) 
+Seat 2: Adalton04 (1475 in chips) 
+Seat 3: Region322 (1659 in chips) 
+Seat 4: nithinv (1512 in chips) 
+Seat 5: AngryRedFox (1455 in chips) 
+Seat 6: DenZak1983 (1405 in chips) 
+Seat 7: Zorkkiin (1425 in chips) 
+Seat 8: Flmatta88 (1779 in chips) 
+Seat 9: Gust8077 (1663 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+Zorkkiin: posts small blind 10
+Flmatta88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [6h 2c]
+Gust8077: folds 
+mikimajek: raises 40 to 60
+Adalton04: folds 
+Region322: folds 
+nithinv: folds 
+AngryRedFox: calls 60
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+*** FLOP *** [7c 8h 4s]
+mikimajek: bets 95
+AngryRedFox: calls 95
+*** TURN *** [7c 8h 4s] [5d]
+mikimajek: checks 
+AngryRedFox: bets 187
+mikimajek: folds 
+Uncalled bet (187) returned to AngryRedFox
+AngryRedFox collected 367 from pot
+*** SUMMARY ***
+Total pot 367 | Rake 0 
+Board [7c 8h 4s 5d]
+Seat 1: mikimajek folded on the Turn
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox collected (367)
+Seat 6: DenZak1983 (button) folded before Flop (didn't bet)
+Seat 7: Zorkkiin (small blind) folded before Flop
+Seat 8: Flmatta88 (big blind) folded before Flop
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610307433: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:48:53 BRT [2015/11/10 10:48:53 ET]
+Table '1376137207 4' 9-max Seat #7 is the button
+Seat 1: mikimajek (969 in chips) 
+Seat 2: Adalton04 (1472 in chips) 
+Seat 3: Region322 (1656 in chips) 
+Seat 4: nithinv (1509 in chips) 
+Seat 5: AngryRedFox (1664 in chips) 
+Seat 6: DenZak1983 (1402 in chips) 
+Seat 7: Zorkkiin (1412 in chips) 
+Seat 8: Flmatta88 (1756 in chips) 
+Seat 9: Gust8077 (1660 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+Flmatta88: posts small blind 10
+Gust8077: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [3s Kh]
+mikimajek: folds 
+Adalton04: raises 40 to 60
+Region322: folds 
+nithinv: folds 
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+Uncalled bet (40) returned to Adalton04
+Adalton04 collected 77 from pot
+Adalton04: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 collected (77)
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin (button) folded before Flop (didn't bet)
+Seat 8: Flmatta88 (small blind) folded before Flop
+Seat 9: Gust8077 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143610328941: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:49:22 BRT [2015/11/10 10:49:22 ET]
+Table '1376137207 4' 9-max Seat #8 is the button
+Seat 1: mikimajek (966 in chips) 
+Seat 2: Adalton04 (1526 in chips) 
+Seat 3: Region322 (1653 in chips) 
+Seat 4: nithinv (1506 in chips) 
+Seat 5: AngryRedFox (1661 in chips) 
+Seat 6: DenZak1983 (1399 in chips) 
+Seat 7: Zorkkiin (1409 in chips) 
+Seat 8: Flmatta88 (1743 in chips) 
+Seat 9: Gust8077 (1637 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+Gust8077: posts small blind 10
+mikimajek: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [2c 2d]
+Adalton04: folds 
+Region322: folds 
+nithinv: calls 20
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: calls 10
+mikimajek: checks 
+*** FLOP *** [Ac 9c 6c]
+Gust8077: checks 
+mikimajek: checks 
+nithinv: bets 60
+Gust8077: folds 
+mikimajek: folds 
+Uncalled bet (60) returned to nithinv
+nithinv collected 87 from pot
+*** SUMMARY ***
+Total pot 87 | Rake 0 
+Board [Ac 9c 6c]
+Seat 1: mikimajek (big blind) folded on the Flop
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv collected (87)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 (button) folded before Flop (didn't bet)
+Seat 9: Gust8077 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #143610358661: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:50:02 BRT [2015/11/10 10:50:02 ET]
+Table '1376137207 4' 9-max Seat #9 is the button
+Seat 1: mikimajek (943 in chips) 
+Seat 2: Adalton04 (1523 in chips) 
+Seat 3: Region322 (1650 in chips) 
+Seat 4: nithinv (1570 in chips) 
+Seat 5: AngryRedFox (1658 in chips) 
+Seat 6: DenZak1983 (1396 in chips) 
+Seat 7: Zorkkiin (1406 in chips) 
+Seat 8: Flmatta88 (1740 in chips) 
+Seat 9: Gust8077 (1614 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+mikimajek: posts small blind 10
+Adalton04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [8d 9c]
+Region322: folds 
+nithinv: folds 
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Uncalled bet (10) returned to Adalton04
+Adalton04 collected 47 from pot
+Adalton04: doesn't show hand 
+*** SUMMARY ***
+Total pot 47 | Rake 0 
+Seat 1: mikimajek (small blind) folded before Flop
+Seat 2: Adalton04 (big blind) collected (47)
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610378250: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:50:28 BRT [2015/11/10 10:50:28 ET]
+Table '1376137207 4' 9-max Seat #1 is the button
+Seat 1: mikimajek (930 in chips) 
+Seat 2: Adalton04 (1557 in chips) 
+Seat 3: Region322 (1647 in chips) 
+Seat 4: nithinv (1567 in chips) 
+Seat 5: AngryRedFox (1655 in chips) 
+Seat 6: DenZak1983 (1393 in chips) 
+Seat 7: Zorkkiin (1403 in chips) 
+Seat 8: Flmatta88 (1737 in chips) 
+Seat 9: Gust8077 (1611 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+Adalton04: posts small blind 10
+Region322: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [Jc 4h]
+nithinv: calls 20
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: raises 40 to 60
+Adalton04: folds 
+Region322: folds 
+nithinv: calls 40
+*** FLOP *** [2c 8h Kc]
+nithinv: checks 
+mikimajek: checks 
+*** TURN *** [2c 8h Kc] [9h]
+nithinv: checks 
+mikimajek: checks 
+*** RIVER *** [2c 8h Kc 9h] [Tc]
+nithinv: checks 
+mikimajek: checks 
+*** SHOW DOWN ***
+nithinv: shows [5s 7s] (high card King)
+mikimajek: shows [Ah Qs] (high card Ace)
+mikimajek collected 177 from pot
+*** SUMMARY ***
+Total pot 177 | Rake 0 
+Board [2c 8h Kc 9h Tc]
+Seat 1: mikimajek (button) showed [Ah Qs] and won (177) with high card Ace
+Seat 2: Adalton04 (small blind) folded before Flop
+Seat 3: Region322 (big blind) folded before Flop
+Seat 4: nithinv showed [5s 7s] and lost with high card King
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610420257: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:51:25 BRT [2015/11/10 10:51:25 ET]
+Table '1376137207 4' 9-max Seat #2 is the button
+Seat 1: mikimajek (1044 in chips) 
+Seat 2: Adalton04 (1544 in chips) 
+Seat 3: Region322 (1624 in chips) 
+Seat 4: nithinv (1504 in chips) 
+Seat 5: AngryRedFox (1652 in chips) 
+Seat 6: DenZak1983 (1390 in chips) 
+Seat 7: Zorkkiin (1400 in chips) 
+Seat 8: Flmatta88 (1734 in chips) 
+Seat 9: Gust8077 (1608 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+Region322: posts small blind 10
+nithinv: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [6h 2d]
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: raises 40 to 60
+Region322: folds 
+nithinv: calls 40
+*** FLOP *** [Ah Tc Kd]
+nithinv: checks 
+Adalton04: bets 78
+nithinv: folds 
+Uncalled bet (78) returned to Adalton04
+Adalton04 collected 157 from pot
+Adalton04: doesn't show hand 
+*** SUMMARY ***
+Total pot 157 | Rake 0 
+Board [Ah Tc Kd]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 (button) collected (157)
+Seat 3: Region322 (small blind) folded before Flop
+Seat 4: nithinv (big blind) folded on the Flop
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610460737: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:52:19 BRT [2015/11/10 10:52:19 ET]
+Table '1376137207 4' 9-max Seat #3 is the button
+Seat 1: mikimajek (1041 in chips) 
+Seat 2: Adalton04 (1638 in chips) 
+Seat 3: Region322 (1611 in chips) 
+Seat 4: nithinv (1441 in chips) 
+Seat 5: AngryRedFox (1649 in chips) 
+Seat 6: DenZak1983 (1387 in chips) 
+Seat 7: Zorkkiin (1397 in chips) 
+Seat 8: Flmatta88 (1731 in chips) 
+Seat 9: Gust8077 (1605 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+nithinv: posts small blind 10
+AngryRedFox: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [6c 4h]
+DenZak1983: raises 40 to 60
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: raises 90 to 150
+Region322: folds 
+nithinv: calls 140
+AngryRedFox: folds 
+DenZak1983: calls 90
+*** FLOP *** [Qc 2d 8s]
+nithinv: checks 
+DenZak1983: bets 323
+Adalton04: folds 
+nithinv: folds 
+Uncalled bet (323) returned to DenZak1983
+DenZak1983 collected 497 from pot
+*** SUMMARY ***
+Total pot 497 | Rake 0 
+Board [Qc 2d 8s]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded on the Flop
+Seat 3: Region322 (button) folded before Flop (didn't bet)
+Seat 4: nithinv (small blind) folded on the Flop
+Seat 5: AngryRedFox (big blind) folded before Flop
+Seat 6: DenZak1983 collected (497)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610508872: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:53:24 BRT [2015/11/10 10:53:24 ET]
+Table '1376137207 4' 9-max Seat #4 is the button
+Seat 1: mikimajek (1038 in chips) 
+Seat 2: Adalton04 (1485 in chips) 
+Seat 3: Region322 (1608 in chips) 
+Seat 4: nithinv (1288 in chips) 
+Seat 5: AngryRedFox (1626 in chips) 
+Seat 6: DenZak1983 (1731 in chips) 
+Seat 7: Zorkkiin (1394 in chips) 
+Seat 8: Flmatta88 (1728 in chips) 
+Seat 9: Gust8077 (1602 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+AngryRedFox: posts small blind 10
+DenZak1983: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [3d 5h]
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: folds 
+Region322: folds 
+nithinv: folds 
+AngryRedFox: raises 20 to 40
+DenZak1983: folds 
+Uncalled bet (20) returned to AngryRedFox
+AngryRedFox collected 67 from pot
+*** SUMMARY ***
+Total pot 67 | Rake 0 
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv (button) folded before Flop (didn't bet)
+Seat 5: AngryRedFox (small blind) collected (67)
+Seat 6: DenZak1983 (big blind) folded before Flop
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610523919: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:53:44 BRT [2015/11/10 10:53:44 ET]
+Table '1376137207 4' 9-max Seat #5 is the button
+Seat 1: mikimajek (1035 in chips) 
+Seat 2: Adalton04 (1482 in chips) 
+Seat 3: Region322 (1605 in chips) 
+Seat 4: nithinv (1285 in chips) 
+Seat 5: AngryRedFox (1670 in chips) 
+Seat 6: DenZak1983 (1708 in chips) 
+Seat 7: Zorkkiin (1391 in chips) 
+Seat 8: Flmatta88 (1725 in chips) 
+Seat 9: Gust8077 (1599 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+DenZak1983: posts small blind 10
+Zorkkiin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [2d 9d]
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: folds 
+Region322: folds 
+nithinv: raises 40 to 60
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Uncalled bet (40) returned to nithinv
+nithinv collected 77 from pot
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv collected (77)
+Seat 5: AngryRedFox (button) folded before Flop (didn't bet)
+Seat 6: DenZak1983 (small blind) folded before Flop
+Seat 7: Zorkkiin (big blind) folded before Flop
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610545312: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2015/11/10 13:54:13 BRT [2015/11/10 10:54:13 ET]
+Table '1376137207 4' 9-max Seat #6 is the button
+Seat 1: mikimajek (1032 in chips) 
+Seat 2: Adalton04 (1479 in chips) 
+Seat 3: Region322 (1602 in chips) 
+Seat 4: nithinv (1339 in chips) 
+Seat 5: AngryRedFox (1667 in chips) 
+Seat 6: DenZak1983 (1695 in chips) 
+Seat 7: Zorkkiin (1368 in chips) 
+Seat 8: Flmatta88 (1722 in chips) 
+Seat 9: Gust8077 (1596 in chips) 
+mikimajek: posts the ante 3
+Adalton04: posts the ante 3
+Region322: posts the ante 3
+nithinv: posts the ante 3
+AngryRedFox: posts the ante 3
+DenZak1983: posts the ante 3
+Zorkkiin: posts the ante 3
+Flmatta88: posts the ante 3
+Gust8077: posts the ante 3
+Zorkkiin: posts small blind 10
+Flmatta88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qc As]
+Gust8077: raises 40 to 60
+mikimajek: folds 
+Adalton04: folds 
+Region322: folds 
+nithinv: calls 60
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+*** FLOP *** [3h Jh Td]
+Gust8077: bets 80
+nithinv: folds 
+Uncalled bet (80) returned to Gust8077
+Gust8077 collected 177 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 177 | Rake 0 
+Board [3h Jh Td]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv folded on the Flop
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 (button) folded before Flop (didn't bet)
+Seat 7: Zorkkiin (small blind) folded before Flop
+Seat 8: Flmatta88 (big blind) folded before Flop
+Seat 9: Gust8077 collected (177)
+
+
+
+PokerStars Hand #143610578756: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 13:54:58 BRT [2015/11/10 10:54:58 ET]
+Table '1376137207 4' 9-max Seat #7 is the button
+Seat 1: mikimajek (1029 in chips) 
+Seat 2: Adalton04 (1476 in chips) 
+Seat 3: Region322 (1599 in chips) 
+Seat 4: nithinv (1276 in chips) 
+Seat 5: AngryRedFox (1664 in chips) 
+Seat 6: DenZak1983 (1692 in chips) 
+Seat 7: Zorkkiin (1355 in chips) 
+Seat 8: Flmatta88 (1699 in chips) 
+Seat 9: Gust8077 (1710 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+Region322: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+Flmatta88: posts small blind 15
+Gust8077: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [6h 3s]
+mikimajek: folds 
+Adalton04: raises 60 to 90
+Region322: folds 
+nithinv: folds 
+AngryRedFox: calls 90
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+*** FLOP *** [Td 4d Jd]
+Adalton04: bets 130
+AngryRedFox: calls 130
+*** TURN *** [Td 4d Jd] [Jc]
+Adalton04: bets 260
+AngryRedFox: raises 260 to 520
+Adalton04: folds 
+Uncalled bet (260) returned to AngryRedFox
+AngryRedFox collected 1041 from pot
+AngryRedFox: doesn't show hand 
+*** SUMMARY ***
+Total pot 1041 | Rake 0 
+Board [Td 4d Jd Jc]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded on the Turn
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox collected (1041)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin (button) folded before Flop (didn't bet)
+Seat 8: Flmatta88 (small blind) folded before Flop
+Seat 9: Gust8077 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143610795405: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:00:45 BRT [2015/11/10 11:00:45 ET]
+Table '1376137207 4' 9-max Seat #8 is the button
+Seat 1: mikimajek (1025 in chips) 
+Seat 2: Adalton04 (992 in chips) 
+Seat 3: Region322 (1595 in chips) is sitting out
+Seat 4: nithinv (1272 in chips) 
+Seat 5: AngryRedFox (2221 in chips) 
+Seat 6: DenZak1983 (1688 in chips) 
+Seat 7: Zorkkiin (1351 in chips) 
+Seat 8: Flmatta88 (1680 in chips) 
+Seat 9: Gust8077 (1676 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+Region322: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+Gust8077: posts small blind 15
+mikimajek: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [7h 9h]
+Adalton04: folds 
+Region322: folds 
+nithinv: raises 60 to 90
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Uncalled bet (60) returned to nithinv
+nithinv collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: mikimajek (big blind) folded before Flop
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv collected (111)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 (button) folded before Flop (didn't bet)
+Seat 9: Gust8077 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143610824389: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:01:26 BRT [2015/11/10 11:01:26 ET]
+Table '1376137207 4' 9-max Seat #9 is the button
+Seat 1: mikimajek (991 in chips) 
+Seat 2: Adalton04 (988 in chips) 
+Seat 3: Region322 (1591 in chips) is sitting out
+Seat 4: nithinv (1349 in chips) 
+Seat 5: AngryRedFox (2217 in chips) 
+Seat 6: DenZak1983 (1684 in chips) 
+Seat 7: Zorkkiin (1347 in chips) 
+Seat 8: Flmatta88 (1676 in chips) 
+Seat 9: Gust8077 (1657 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+Region322: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+mikimajek: posts small blind 15
+Adalton04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [4s 9s]
+Region322: folds 
+nithinv: folds 
+AngryRedFox: raises 30 to 60
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: calls 30
+*** FLOP *** [3d 5h 2d]
+Adalton04: checks 
+AngryRedFox: bets 90
+Adalton04: folds 
+Uncalled bet (90) returned to AngryRedFox
+AngryRedFox collected 171 from pot
+AngryRedFox: doesn't show hand 
+*** SUMMARY ***
+Total pot 171 | Rake 0 
+Board [3d 5h 2d]
+Seat 1: mikimajek (small blind) folded before Flop
+Seat 2: Adalton04 (big blind) folded on the Flop
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox collected (171)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610848846: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:01:59 BRT [2015/11/10 11:01:59 ET]
+Table '1376137207 4' 9-max Seat #1 is the button
+Seat 1: mikimajek (972 in chips) 
+Seat 2: Adalton04 (924 in chips) 
+Seat 3: Region322 (1587 in chips) is sitting out
+Seat 4: nithinv (1345 in chips) 
+Seat 5: AngryRedFox (2324 in chips) 
+Seat 6: DenZak1983 (1680 in chips) 
+Seat 7: Zorkkiin (1343 in chips) 
+Seat 8: Flmatta88 (1672 in chips) 
+Seat 9: Gust8077 (1653 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+Region322: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+Adalton04: posts small blind 15
+Region322: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ts 3h]
+nithinv: calls 30
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: raises 90 to 120
+Region322: folds 
+nithinv: raises 1221 to 1341 and is all-in
+Adalton04: folds 
+Uncalled bet (1221) returned to nithinv
+nithinv collected 306 from pot
+*** SUMMARY ***
+Total pot 306 | Rake 0 
+Seat 1: mikimajek (button) folded before Flop (didn't bet)
+Seat 2: Adalton04 (small blind) folded before Flop
+Seat 3: Region322 (big blind) folded before Flop
+Seat 4: nithinv collected (306)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610878602: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:02:39 BRT [2015/11/10 11:02:39 ET]
+Table '1376137207 4' 9-max Seat #2 is the button
+Seat 1: mikimajek (968 in chips) 
+Seat 2: Adalton04 (800 in chips) 
+Seat 3: Region322 (1553 in chips) is sitting out
+Seat 4: nithinv (1527 in chips) 
+Seat 5: AngryRedFox (2320 in chips) 
+Seat 6: DenZak1983 (1676 in chips) 
+Seat 7: Zorkkiin (1339 in chips) 
+Seat 8: Flmatta88 (1668 in chips) 
+Seat 9: Gust8077 (1649 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+Region322: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+Region322: posts small blind 15
+nithinv: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ah Qh]
+AngryRedFox: folds 
+DenZak1983: raises 60 to 90
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: calls 90
+mikimajek: folds 
+Adalton04: folds 
+Region322: folds 
+nithinv: folds 
+*** FLOP *** [Ts 5d 2h]
+DenZak1983: bets 169
+Gust8077: folds 
+Uncalled bet (169) returned to DenZak1983
+DenZak1983 collected 261 from pot
+*** SUMMARY ***
+Total pot 261 | Rake 0 
+Board [Ts 5d 2h]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 (button) folded before Flop (didn't bet)
+Seat 3: Region322 (small blind) folded before Flop
+Seat 4: nithinv (big blind) folded before Flop
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 collected (261)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded on the Flop
+
+
+
+PokerStars Hand #143610917648: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:03:30 BRT [2015/11/10 11:03:30 ET]
+Table '1376137207 4' 9-max Seat #3 is the button
+Seat 1: mikimajek (964 in chips) 
+Seat 2: Adalton04 (796 in chips) 
+Seat 3: Region322 (1534 in chips) is sitting out
+Seat 4: nithinv (1493 in chips) 
+Seat 5: AngryRedFox (2316 in chips) 
+Seat 6: DenZak1983 (1843 in chips) 
+Seat 7: Zorkkiin (1335 in chips) 
+Seat 8: Flmatta88 (1664 in chips) 
+Seat 9: Gust8077 (1555 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+Region322: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+nithinv: posts small blind 15
+AngryRedFox: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [5s 8s]
+Region322 has returned
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: raises 60 to 90
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: folds 
+Region322: folds 
+nithinv: raises 90 to 180
+AngryRedFox: folds 
+Flmatta88: calls 90
+*** FLOP *** [3h Jh Kd]
+nithinv: checks 
+Flmatta88: checks 
+*** TURN *** [3h Jh Kd] [9c]
+nithinv: checks 
+Flmatta88: bets 234
+nithinv: folds [As Qh]
+Uncalled bet (234) returned to Flmatta88
+Flmatta88 collected 426 from pot
+Flmatta88: doesn't show hand 
+*** SUMMARY ***
+Total pot 426 | Rake 0 
+Board [3h Jh Kd 9c]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 3: Region322 (button) folded before Flop (didn't bet)
+Seat 4: nithinv (small blind) folded on the Turn
+Seat 5: AngryRedFox (big blind) folded before Flop
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 collected (426)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143610975678: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:04:47 BRT [2015/11/10 11:04:47 ET]
+Table '1376137207 4' 9-max Seat #4 is the button
+Seat 1: mikimajek (960 in chips) 
+Seat 2: Adalton04 (792 in chips) 
+Seat 3: Region322 (1530 in chips) 
+Seat 4: nithinv (1309 in chips) 
+Seat 5: AngryRedFox (2282 in chips) 
+Seat 6: DenZak1983 (1839 in chips) 
+Seat 7: Zorkkiin (1331 in chips) 
+Seat 8: Flmatta88 (1906 in chips) 
+Seat 9: Gust8077 (1551 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+Region322: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+AngryRedFox: posts small blind 15
+DenZak1983: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [7s Qc]
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: raises 60 to 90
+Region322: folds 
+nithinv: calls 90
+AngryRedFox: folds 
+DenZak1983: folds 
+*** FLOP *** [4c 9h 6s]
+Adalton04: bets 130
+nithinv: calls 130
+*** TURN *** [4c 9h 6s] [2c]
+Adalton04: bets 568 and is all-in
+nithinv: folds 
+Uncalled bet (568) returned to Adalton04
+Adalton04 collected 521 from pot
+Adalton04: doesn't show hand 
+*** SUMMARY ***
+Total pot 521 | Rake 0 
+Board [4c 9h 6s 2c]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 collected (521)
+Seat 3: Region322 folded before Flop (didn't bet)
+Seat 4: nithinv (button) folded on the Turn
+Seat 5: AngryRedFox (small blind) folded before Flop
+Seat 6: DenZak1983 (big blind) folded before Flop
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611003593: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:05:24 BRT [2015/11/10 11:05:24 ET]
+Table '1376137207 4' 9-max Seat #5 is the button
+Seat 1: mikimajek (956 in chips) 
+Seat 2: Adalton04 (1089 in chips) 
+Seat 4: nithinv (1085 in chips) 
+Seat 5: AngryRedFox (2263 in chips) 
+Seat 6: DenZak1983 (1805 in chips) 
+Seat 7: Zorkkiin (1327 in chips) 
+Seat 8: Flmatta88 (1902 in chips) 
+Seat 9: Gust8077 (1547 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+DenZak1983: posts small blind 15
+Zorkkiin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [6h 4s]
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: folds 
+nithinv: folds 
+AngryRedFox: folds 
+DenZak1983: folds 
+Uncalled bet (15) returned to Zorkkiin
+Zorkkiin collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0 
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox (button) folded before Flop (didn't bet)
+Seat 6: DenZak1983 (small blind) folded before Flop
+Seat 7: Zorkkiin (big blind) collected (62)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611016261: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:05:40 BRT [2015/11/10 11:05:40 ET]
+Table '1376137207 4' 9-max Seat #6 is the button
+Seat 1: mikimajek (952 in chips) 
+Seat 2: Adalton04 (1085 in chips) 
+Seat 4: nithinv (1081 in chips) 
+Seat 5: AngryRedFox (2259 in chips) 
+Seat 6: DenZak1983 (1786 in chips) 
+Seat 7: Zorkkiin (1370 in chips) 
+Seat 8: Flmatta88 (1898 in chips) 
+Seat 9: Gust8077 (1543 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+Zorkkiin: posts small blind 15
+Flmatta88: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [Kc 5d]
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: folds 
+nithinv: folds 
+AngryRedFox: raises 30 to 60
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Uncalled bet (30) returned to AngryRedFox
+AngryRedFox collected 107 from pot
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox collected (107)
+Seat 6: DenZak1983 (button) folded before Flop (didn't bet)
+Seat 7: Zorkkiin (small blind) folded before Flop
+Seat 8: Flmatta88 (big blind) folded before Flop
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611032923: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:06:02 BRT [2015/11/10 11:06:02 ET]
+Table '1376137207 4' 9-max Seat #7 is the button
+Seat 1: mikimajek (948 in chips) 
+Seat 2: Adalton04 (1081 in chips) 
+Seat 4: nithinv (1077 in chips) 
+Seat 5: AngryRedFox (2332 in chips) 
+Seat 6: DenZak1983 (1782 in chips) 
+Seat 7: Zorkkiin (1351 in chips) 
+Seat 8: Flmatta88 (1864 in chips) 
+Seat 9: Gust8077 (1539 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+Flmatta88: posts small blind 15
+Gust8077: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [2h Jh]
+mikimajek: folds 
+Adalton04: folds 
+nithinv: raises 60 to 90
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+Uncalled bet (60) returned to nithinv
+nithinv collected 107 from pot
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 4: nithinv collected (107)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin (button) folded before Flop (didn't bet)
+Seat 8: Flmatta88 (small blind) folded before Flop
+Seat 9: Gust8077 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143611054923: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:06:31 BRT [2015/11/10 11:06:31 ET]
+Table '1376137207 4' 9-max Seat #8 is the button
+Seat 1: mikimajek (944 in chips) 
+Seat 2: Adalton04 (1077 in chips) 
+Seat 4: nithinv (1150 in chips) 
+Seat 5: AngryRedFox (2328 in chips) 
+Seat 6: DenZak1983 (1778 in chips) 
+Seat 7: Zorkkiin (1347 in chips) 
+Seat 8: Flmatta88 (1845 in chips) 
+Seat 9: Gust8077 (1505 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+Gust8077: posts small blind 15
+mikimajek: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ad 7d]
+Adalton04: folds 
+nithinv: folds 
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: raises 60 to 90
+mikimajek: folds 
+Uncalled bet (60) returned to Gust8077
+Gust8077 collected 92 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: mikimajek (big blind) folded before Flop
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 (button) folded before Flop (didn't bet)
+Seat 9: Gust8077 (small blind) collected (92)
+
+
+
+PokerStars Hand #143611070214: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:06:51 BRT [2015/11/10 11:06:51 ET]
+Table '1376137207 4' 9-max Seat #9 is the button
+Seat 1: mikimajek (910 in chips) 
+Seat 2: Adalton04 (1073 in chips) 
+Seat 4: nithinv (1146 in chips) 
+Seat 5: AngryRedFox (2324 in chips) 
+Seat 6: DenZak1983 (1774 in chips) 
+Seat 7: Zorkkiin (1343 in chips) 
+Seat 8: Flmatta88 (1841 in chips) 
+Seat 9: Gust8077 (1563 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+mikimajek: posts small blind 15
+Adalton04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [As 7h]
+nithinv: folds 
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: raises 60 to 90
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: folds 
+Uncalled bet (60) returned to Zorkkiin
+Zorkkiin collected 107 from pot
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: mikimajek (small blind) folded before Flop
+Seat 2: Adalton04 (big blind) folded before Flop
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin collected (107)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611091948: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:07:20 BRT [2015/11/10 11:07:20 ET]
+Table '1376137207 4' 9-max Seat #1 is the button
+Seat 1: mikimajek (891 in chips) 
+Seat 2: Adalton04 (1039 in chips) 
+Seat 4: nithinv (1142 in chips) 
+Seat 5: AngryRedFox (2320 in chips) 
+Seat 6: DenZak1983 (1770 in chips) 
+Seat 7: Zorkkiin (1416 in chips) 
+Seat 8: Flmatta88 (1837 in chips) 
+Seat 9: Gust8077 (1559 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+Adalton04: posts small blind 15
+nithinv: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [3h Jh]
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: calls 30
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: raises 90 to 120
+nithinv: calls 90
+Flmatta88: folds 
+*** FLOP *** [Th 3c 4d]
+Adalton04: bets 151
+nithinv: folds 
+Uncalled bet (151) returned to Adalton04
+Adalton04 collected 302 from pot
+Adalton04: doesn't show hand 
+*** SUMMARY ***
+Total pot 302 | Rake 0 
+Board [Th 3c 4d]
+Seat 1: mikimajek (button) folded before Flop (didn't bet)
+Seat 2: Adalton04 (small blind) collected (302)
+Seat 4: nithinv (big blind) folded on the Flop
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611144671: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:08:29 BRT [2015/11/10 11:08:29 ET]
+Table '1376137207 4' 9-max Seat #2 is the button
+Seat 1: mikimajek (887 in chips) 
+Seat 2: Adalton04 (1217 in chips) 
+Seat 4: nithinv (1018 in chips) 
+Seat 5: AngryRedFox (2316 in chips) 
+Seat 6: DenZak1983 (1766 in chips) 
+Seat 7: Zorkkiin (1412 in chips) 
+Seat 8: Flmatta88 (1803 in chips) 
+Seat 9: Gust8077 (1555 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+nithinv: posts small blind 15
+AngryRedFox: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [Tc 6h]
+DenZak1983: raises 60 to 90
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: calls 90
+nithinv: calls 75
+AngryRedFox: calls 60
+*** FLOP *** [Qd 2h Ac]
+nithinv: checks 
+AngryRedFox: checks 
+DenZak1983: bets 254
+Adalton04: folds 
+nithinv: folds 
+AngryRedFox: folds 
+Uncalled bet (254) returned to DenZak1983
+DenZak1983 collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | Rake 0 
+Board [Qd 2h Ac]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 (button) folded on the Flop
+Seat 4: nithinv (small blind) folded on the Flop
+Seat 5: AngryRedFox (big blind) folded on the Flop
+Seat 6: DenZak1983 collected (392)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611198264: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:09:39 BRT [2015/11/10 11:09:39 ET]
+Table '1376137207 4' 9-max Seat #4 is the button
+Seat 1: mikimajek (883 in chips) 
+Seat 2: Adalton04 (1123 in chips) 
+Seat 4: nithinv (924 in chips) 
+Seat 5: AngryRedFox (2222 in chips) 
+Seat 6: DenZak1983 (2064 in chips) 
+Seat 7: Zorkkiin (1408 in chips) 
+Seat 8: Flmatta88 (1799 in chips) 
+Seat 9: Gust8077 (1551 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+AngryRedFox: posts small blind 15
+DenZak1983: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [4s Qs]
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: folds 
+nithinv: folds 
+AngryRedFox: folds 
+Uncalled bet (15) returned to DenZak1983
+DenZak1983 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0 
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 4: nithinv (button) folded before Flop (didn't bet)
+Seat 5: AngryRedFox (small blind) folded before Flop
+Seat 6: DenZak1983 (big blind) collected (62)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611209015: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2015/11/10 14:09:54 BRT [2015/11/10 11:09:54 ET]
+Table '1376137207 4' 9-max Seat #5 is the button
+Seat 1: mikimajek (879 in chips) 
+Seat 2: Adalton04 (1119 in chips) 
+Seat 4: nithinv (920 in chips) 
+Seat 5: AngryRedFox (2203 in chips) 
+Seat 6: DenZak1983 (2107 in chips) 
+Seat 7: Zorkkiin (1404 in chips) 
+Seat 8: Flmatta88 (1795 in chips) 
+Seat 9: Gust8077 (1547 in chips) 
+mikimajek: posts the ante 4
+Adalton04: posts the ante 4
+nithinv: posts the ante 4
+AngryRedFox: posts the ante 4
+DenZak1983: posts the ante 4
+Zorkkiin: posts the ante 4
+Flmatta88: posts the ante 4
+Gust8077: posts the ante 4
+DenZak1983: posts small blind 15
+Zorkkiin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Gust8077 [3s 9h]
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: calls 30
+Adalton04: folds 
+nithinv: raises 886 to 916 and is all-in
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+mikimajek: folds 
+Uncalled bet (886) returned to nithinv
+nithinv collected 137 from pot
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Seat 1: mikimajek folded before Flop
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 4: nithinv collected (137)
+Seat 5: AngryRedFox (button) folded before Flop (didn't bet)
+Seat 6: DenZak1983 (small blind) folded before Flop
+Seat 7: Zorkkiin (big blind) folded before Flop
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611230413: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:10:22 BRT [2015/11/10 11:10:22 ET]
+Table '1376137207 4' 9-max Seat #6 is the button
+Seat 1: mikimajek (845 in chips) 
+Seat 2: Adalton04 (1115 in chips) 
+Seat 4: nithinv (1023 in chips) 
+Seat 5: AngryRedFox (2199 in chips) 
+Seat 6: DenZak1983 (2088 in chips) 
+Seat 7: Zorkkiin (1370 in chips) 
+Seat 8: Flmatta88 (1791 in chips) 
+Seat 9: Gust8077 (1543 in chips) 
+mikimajek: posts the ante 6
+Adalton04: posts the ante 6
+nithinv: posts the ante 6
+AngryRedFox: posts the ante 6
+DenZak1983: posts the ante 6
+Zorkkiin: posts the ante 6
+Flmatta88: posts the ante 6
+Gust8077: posts the ante 6
+Zorkkiin: posts small blind 25
+Flmatta88: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ks 8c]
+Gust8077: folds 
+mikimajek: raises 789 to 839 and is all-in
+Adalton04: folds 
+nithinv: folds 
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Uncalled bet (789) returned to mikimajek
+mikimajek collected 173 from pot
+mikimajek: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: mikimajek collected (173)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 (button) folded before Flop (didn't bet)
+Seat 7: Zorkkiin (small blind) folded before Flop
+Seat 8: Flmatta88 (big blind) folded before Flop
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611289759: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:11:40 BRT [2015/11/10 11:11:40 ET]
+Table '1376137207 4' 9-max Seat #7 is the button
+Seat 1: mikimajek (962 in chips) 
+Seat 2: Adalton04 (1109 in chips) 
+Seat 4: nithinv (1017 in chips) 
+Seat 5: AngryRedFox (2193 in chips) 
+Seat 6: DenZak1983 (2082 in chips) 
+Seat 7: Zorkkiin (1339 in chips) 
+Seat 8: Flmatta88 (1735 in chips) 
+Seat 9: Gust8077 (1537 in chips) 
+mikimajek: posts the ante 6
+Adalton04: posts the ante 6
+nithinv: posts the ante 6
+AngryRedFox: posts the ante 6
+DenZak1983: posts the ante 6
+Zorkkiin: posts the ante 6
+Flmatta88: posts the ante 6
+Gust8077: posts the ante 6
+Flmatta88: posts small blind 25
+Gust8077: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [Kh Jd]
+mikimajek: folds 
+Adalton04: folds 
+mikimajek is sitting out
+nithinv: calls 50
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: checks 
+*** FLOP *** [8h Th Jc]
+Gust8077: checks 
+nithinv: bets 100
+Gust8077: raises 130 to 230
+nithinv: raises 731 to 961 and is all-in
+Gust8077: calls 731
+*** TURN *** [8h Th Jc] [8d]
+*** RIVER *** [8h Th Jc 8d] [3c]
+*** SHOW DOWN ***
+Gust8077: shows [Kh Jd] (two pair, Jacks and Eights)
+nithinv: shows [9h 8s] (three of a kind, Eights)
+nithinv collected 2095 from pot
+*** SUMMARY ***
+Total pot 2095 | Rake 0 
+Board [8h Th Jc 8d 3c]
+Seat 1: mikimajek folded before Flop (didn't bet)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 4: nithinv showed [9h 8s] and won (2095) with three of a kind, Eights
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin (button) folded before Flop (didn't bet)
+Seat 8: Flmatta88 (small blind) folded before Flop
+Seat 9: Gust8077 (big blind) showed [Kh Jd] and lost with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #143611324304: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:12:26 BRT [2015/11/10 11:12:26 ET]
+Table '1376137207 4' 9-max Seat #8 is the button
+Seat 1: mikimajek (956 in chips) is sitting out
+Seat 2: Adalton04 (1103 in chips) 
+Seat 4: nithinv (2095 in chips) 
+Seat 5: AngryRedFox (2187 in chips) 
+Seat 6: DenZak1983 (2076 in chips) 
+Seat 7: Zorkkiin (1333 in chips) 
+Seat 8: Flmatta88 (1704 in chips) 
+Seat 9: Gust8077 (520 in chips) 
+mikimajek: posts the ante 6
+Adalton04: posts the ante 6
+nithinv: posts the ante 6
+AngryRedFox: posts the ante 6
+DenZak1983: posts the ante 6
+Zorkkiin: posts the ante 6
+Flmatta88: posts the ante 6
+Gust8077: posts the ante 6
+Gust8077: posts small blind 25
+mikimajek: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [2s 7c]
+mikimajek has returned
+Adalton04: folds 
+nithinv: calls 50
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: calls 50
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: raises 900 to 950 and is all-in
+nithinv: folds 
+Zorkkiin: folds 
+Uncalled bet (900) returned to mikimajek
+mikimajek collected 223 from pot
+mikimajek: doesn't show hand 
+*** SUMMARY ***
+Total pot 223 | Rake 0 
+Seat 1: mikimajek (big blind) collected (223)
+Seat 2: Adalton04 folded before Flop (didn't bet)
+Seat 4: nithinv folded before Flop
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop
+Seat 8: Flmatta88 (button) folded before Flop (didn't bet)
+Seat 9: Gust8077 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143611371167: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:13:27 BRT [2015/11/10 11:13:27 ET]
+Table '1376137207 4' 9-max Seat #9 is the button
+Seat 1: mikimajek (1123 in chips) 
+Seat 2: Adalton04 (1097 in chips) 
+Seat 4: nithinv (2039 in chips) 
+Seat 5: AngryRedFox (2181 in chips) 
+Seat 6: DenZak1983 (2070 in chips) 
+Seat 7: Zorkkiin (1277 in chips) 
+Seat 8: Flmatta88 (1698 in chips) 
+Seat 9: Gust8077 (489 in chips) 
+mikimajek: posts the ante 6
+Adalton04: posts the ante 6
+nithinv: posts the ante 6
+AngryRedFox: posts the ante 6
+DenZak1983: posts the ante 6
+Zorkkiin: posts the ante 6
+Flmatta88: posts the ante 6
+Gust8077: posts the ante 6
+mikimajek: posts small blind 25
+Adalton04: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [2d 3c]
+nithinv: folds 
+AngryRedFox: folds 
+DenZak1983: raises 100 to 150
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: folds 
+Adalton04: raises 250 to 400
+DenZak1983: calls 250
+*** FLOP *** [4s 5c Kd]
+Adalton04: checks 
+DenZak1983: bets 1664 and is all-in
+Adalton04: folds 
+Uncalled bet (1664) returned to DenZak1983
+DenZak1983 collected 873 from pot
+*** SUMMARY ***
+Total pot 873 | Rake 0 
+Board [4s 5c Kd]
+Seat 1: mikimajek (small blind) folded before Flop
+Seat 2: Adalton04 (big blind) folded on the Flop
+Seat 4: nithinv folded before Flop (didn't bet)
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 collected (873)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611470343: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:15:37 BRT [2015/11/10 11:15:37 ET]
+Table '1376137207 4' 9-max Seat #1 is the button
+Seat 1: mikimajek (1092 in chips) 
+Seat 2: Adalton04 (691 in chips) 
+Seat 4: nithinv (2033 in chips) 
+Seat 5: AngryRedFox (2175 in chips) 
+Seat 6: DenZak1983 (2537 in chips) 
+Seat 7: Zorkkiin (1271 in chips) 
+Seat 8: Flmatta88 (1692 in chips) 
+Seat 9: Gust8077 (483 in chips) 
+mikimajek: posts the ante 6
+Adalton04: posts the ante 6
+nithinv: posts the ante 6
+AngryRedFox: posts the ante 6
+DenZak1983: posts the ante 6
+Zorkkiin: posts the ante 6
+Flmatta88: posts the ante 6
+Gust8077: posts the ante 6
+Adalton04: posts small blind 25
+nithinv: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [Jc 7s]
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: folds 
+Flmatta88: folds 
+Gust8077: raises 427 to 477 and is all-in
+mikimajek: folds 
+Adalton04: raises 208 to 685 and is all-in
+nithinv: calls 635
+*** FLOP *** [Js 5h 2d]
+*** TURN *** [Js 5h 2d] [4c]
+*** RIVER *** [Js 5h 2d 4c] [Th]
+*** SHOW DOWN ***
+Adalton04: shows [Ah 8c] (high card Ace)
+nithinv: shows [Ts Ac] (a pair of Tens)
+nithinv collected 416 from side pot
+Gust8077: shows [Jc 7s] (a pair of Jacks)
+Gust8077 collected 1479 from main pot
+Adalton04 finished the tournament in 39th place
+*** SUMMARY ***
+Total pot 1895 Main pot 1479. Side pot 416. | Rake 0 
+Board [Js 5h 2d 4c Th]
+Seat 1: mikimajek (button) folded before Flop (didn't bet)
+Seat 2: Adalton04 (small blind) showed [Ah 8c] and lost with high card Ace
+Seat 4: nithinv (big blind) showed [Ts Ac] and won (416) with a pair of Tens
+Seat 5: AngryRedFox folded before Flop (didn't bet)
+Seat 6: DenZak1983 folded before Flop (didn't bet)
+Seat 7: Zorkkiin folded before Flop (didn't bet)
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 showed [Jc 7s] and won (1479) with a pair of Jacks
+
+
+
+PokerStars Hand #143611504363: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:16:21 BRT [2015/11/10 11:16:21 ET]
+Table '1376137207 4' 9-max Seat #4 is the button
+Seat 1: mikimajek (1086 in chips) 
+Seat 4: nithinv (1758 in chips) 
+Seat 5: AngryRedFox (2169 in chips) 
+Seat 6: DenZak1983 (2531 in chips) 
+Seat 7: Zorkkiin (1265 in chips) 
+Seat 8: Flmatta88 (1686 in chips) 
+Seat 9: Gust8077 (1479 in chips) 
+mikimajek: posts the ante 6
+nithinv: posts the ante 6
+AngryRedFox: posts the ante 6
+DenZak1983: posts the ante 6
+Zorkkiin: posts the ante 6
+Flmatta88: posts the ante 6
+Gust8077: posts the ante 6
+AngryRedFox: posts small blind 25
+DenZak1983: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [9c 7s]
+Zorkkiin: raises 75 to 125
+Flmatta88: folds 
+Gust8077: folds 
+mikimajek: calls 125
+nithinv: raises 1627 to 1752 and is all-in
+AngryRedFox: folds 
+DenZak1983: folds 
+Zorkkiin: calls 1134 and is all-in
+mikimajek: folds 
+Uncalled bet (493) returned to nithinv
+*** FLOP *** [5h 3c 3s]
+*** TURN *** [5h 3c 3s] [2h]
+*** RIVER *** [5h 3c 3s 2h] [Ks]
+*** SHOW DOWN ***
+Zorkkiin: shows [Qd Ac] (a pair of Threes)
+nithinv: shows [4s As] (a straight, Ace to Five)
+nithinv collected 2760 from pot
+Zorkkiin finished the tournament in 37th place
+*** SUMMARY ***
+Total pot 2760 | Rake 0 
+Board [5h 3c 3s 2h Ks]
+Seat 1: mikimajek folded before Flop
+Seat 4: nithinv (button) showed [4s As] and won (2760) with a straight, Ace to Five
+Seat 5: AngryRedFox (small blind) folded before Flop
+Seat 6: DenZak1983 (big blind) folded before Flop
+Seat 7: Zorkkiin showed [Qd Ac] and lost with a pair of Threes
+Seat 8: Flmatta88 folded before Flop (didn't bet)
+Seat 9: Gust8077 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611542284: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:17:10 BRT [2015/11/10 11:17:10 ET]
+Table '1376137207 1' 9-max Seat #6 is the button
+Seat 1: Region322 (5959 in chips) 
+Seat 2: Gust8077 (1473 in chips) 
+Seat 3: T$ymbal (3284 in chips) 
+Seat 4: thiagomagal_ (2051 in chips) 
+Seat 5: nithinv (3253 in chips) 
+Seat 6: Rad_mirr (2012 in chips) 
+Seat 7: Gonjo75 (1303 in chips) 
+Seat 8: jeVITIX (2333 in chips) 
+Seat 9: shmi89 (1949 in chips) 
+Region322: posts the ante 6
+Gust8077: posts the ante 6
+T$ymbal: posts the ante 6
+thiagomagal_: posts the ante 6
+nithinv: posts the ante 6
+Rad_mirr: posts the ante 6
+Gonjo75: posts the ante 6
+jeVITIX: posts the ante 6
+shmi89: posts the ante 6
+Gonjo75: posts small blind 25
+jeVITIX: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [9c 6d]
+shmi89: raises 100 to 150
+Region322: calls 150
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+nithinv: folds 
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+*** FLOP *** [3s 6h Tc]
+shmi89: bets 278
+Region322: folds 
+Uncalled bet (278) returned to shmi89
+shmi89 collected 429 from pot
+shmi89: doesn't show hand 
+*** SUMMARY ***
+Total pot 429 | Rake 0 
+Board [3s 6h Tc]
+Seat 1: Region322 folded on the Flop
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 5: nithinv folded before Flop (didn't bet)
+Seat 6: Rad_mirr (button) folded before Flop (didn't bet)
+Seat 7: Gonjo75 (small blind) folded before Flop
+Seat 8: jeVITIX (big blind) folded before Flop
+Seat 9: shmi89 collected (429)
+
+
+
+PokerStars Hand #143611569952: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:17:45 BRT [2015/11/10 11:17:45 ET]
+Table '1376137207 1' 9-max Seat #7 is the button
+Seat 1: Region322 (5803 in chips) 
+Seat 2: Gust8077 (1467 in chips) 
+Seat 3: T$ymbal (3278 in chips) 
+Seat 4: thiagomagal_ (2045 in chips) 
+Seat 5: nithinv (3247 in chips) 
+Seat 6: Rad_mirr (2006 in chips) 
+Seat 7: Gonjo75 (1272 in chips) 
+Seat 8: jeVITIX (2277 in chips) 
+Seat 9: shmi89 (2222 in chips) 
+Region322: posts the ante 6
+Gust8077: posts the ante 6
+T$ymbal: posts the ante 6
+thiagomagal_: posts the ante 6
+nithinv: posts the ante 6
+Rad_mirr: posts the ante 6
+Gonjo75: posts the ante 6
+jeVITIX: posts the ante 6
+shmi89: posts the ante 6
+jeVITIX: posts small blind 25
+shmi89: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ah 4s]
+Region322: folds 
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+nithinv: folds 
+Rad_mirr: folds 
+Gonjo75: raises 75 to 125
+jeVITIX: folds 
+shmi89: folds 
+Uncalled bet (75) returned to Gonjo75
+Gonjo75 collected 179 from pot
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 5: nithinv folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 (button) collected (179)
+Seat 8: jeVITIX (small blind) folded before Flop
+Seat 9: shmi89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143611594916: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:18:18 BRT [2015/11/10 11:18:18 ET]
+Table '1376137207 1' 9-max Seat #8 is the button
+Seat 1: Region322 (5797 in chips) 
+Seat 2: Gust8077 (1461 in chips) 
+Seat 3: T$ymbal (3272 in chips) 
+Seat 4: thiagomagal_ (2039 in chips) 
+Seat 5: nithinv (3241 in chips) 
+Seat 6: Rad_mirr (2000 in chips) 
+Seat 7: Gonjo75 (1395 in chips) 
+Seat 8: jeVITIX (2246 in chips) 
+Seat 9: shmi89 (2166 in chips) 
+Region322: posts the ante 6
+Gust8077: posts the ante 6
+T$ymbal: posts the ante 6
+thiagomagal_: posts the ante 6
+nithinv: posts the ante 6
+Rad_mirr: posts the ante 6
+Gonjo75: posts the ante 6
+jeVITIX: posts the ante 6
+shmi89: posts the ante 6
+shmi89: posts small blind 25
+Region322: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [6d 2d]
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+nithinv: folds 
+Rad_mirr: raises 100 to 150
+Gonjo75: raises 325 to 475
+jeVITIX: folds 
+shmi89: folds 
+Region322: folds 
+Rad_mirr: folds 
+Uncalled bet (325) returned to Gonjo75
+Gonjo75 collected 429 from pot
+Gonjo75: doesn't show hand 
+*** SUMMARY ***
+Total pot 429 | Rake 0 
+Seat 1: Region322 (big blind) folded before Flop
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 5: nithinv folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop
+Seat 7: Gonjo75 collected (429)
+Seat 8: jeVITIX (button) folded before Flop (didn't bet)
+Seat 9: shmi89 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143611626662: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:18:59 BRT [2015/11/10 11:18:59 ET]
+Table '1376137207 1' 9-max Seat #9 is the button
+Seat 1: Region322 (5741 in chips) 
+Seat 2: Gust8077 (1455 in chips) 
+Seat 3: T$ymbal (3266 in chips) 
+Seat 4: thiagomagal_ (2033 in chips) 
+Seat 5: nithinv (3235 in chips) 
+Seat 6: Rad_mirr (1844 in chips) 
+Seat 7: Gonjo75 (1668 in chips) 
+Seat 8: jeVITIX (2240 in chips) 
+Seat 9: shmi89 (2135 in chips) 
+Region322: posts the ante 6
+Gust8077: posts the ante 6
+T$ymbal: posts the ante 6
+thiagomagal_: posts the ante 6
+nithinv: posts the ante 6
+Rad_mirr: posts the ante 6
+Gonjo75: posts the ante 6
+jeVITIX: posts the ante 6
+shmi89: posts the ante 6
+Region322: posts small blind 25
+Gust8077: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [As 9c]
+T$ymbal: folds 
+thiagomagal_: folds 
+nithinv: calls 50
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Region322: calls 25
+Gust8077: checks 
+*** FLOP *** [Ks Ac 6d]
+Region322: checks 
+Gust8077: checks 
+nithinv: checks 
+*** TURN *** [Ks Ac 6d] [4s]
+Region322: checks 
+Gust8077: bets 81
+nithinv: folds 
+Region322: folds 
+Uncalled bet (81) returned to Gust8077
+Gust8077 collected 204 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 204 | Rake 0 
+Board [Ks Ac 6d 4s]
+Seat 1: Region322 (small blind) folded on the Turn
+Seat 2: Gust8077 (big blind) collected (204)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 5: nithinv folded on the Turn
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611660674: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2015/11/10 14:19:43 BRT [2015/11/10 11:19:43 ET]
+Table '1376137207 1' 9-max Seat #1 is the button
+Seat 1: Region322 (5685 in chips) 
+Seat 2: Gust8077 (1603 in chips) 
+Seat 3: T$ymbal (3260 in chips) 
+Seat 4: thiagomagal_ (2027 in chips) 
+Seat 5: nithinv (3179 in chips) 
+Seat 6: Rad_mirr (1838 in chips) 
+Seat 7: Gonjo75 (1662 in chips) 
+Seat 8: jeVITIX (2234 in chips) 
+Seat 9: shmi89 (2129 in chips) 
+Region322: posts the ante 6
+Gust8077: posts the ante 6
+T$ymbal: posts the ante 6
+thiagomagal_: posts the ante 6
+nithinv: posts the ante 6
+Rad_mirr: posts the ante 6
+Gonjo75: posts the ante 6
+jeVITIX: posts the ante 6
+shmi89: posts the ante 6
+Gust8077: posts small blind 25
+T$ymbal: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Gust8077 [Kd 5c]
+thiagomagal_: folds 
+nithinv: folds 
+Rad_mirr: raises 75 to 125
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Region322: calls 125
+Gust8077: folds 
+T$ymbal: folds 
+*** FLOP *** [Ad Ah Th]
+Rad_mirr: bets 125
+Region322: calls 125
+*** TURN *** [Ad Ah Th] [6s]
+Rad_mirr: checks 
+Region322: checks 
+*** RIVER *** [Ad Ah Th 6s] [8h]
+Rad_mirr: checks 
+Region322: bets 377
+Rad_mirr: folds 
+Uncalled bet (377) returned to Region322
+Region322 collected 629 from pot
+*** SUMMARY ***
+Total pot 629 | Rake 0 
+Board [Ad Ah Th 6s 8h]
+Seat 1: Region322 (button) collected (629)
+Seat 2: Gust8077 (small blind) folded before Flop
+Seat 3: T$ymbal (big blind) folded before Flop
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 5: nithinv folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded on the River
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611705470: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:20:41 BRT [2015/11/10 11:20:41 ET]
+Table '1376137207 1' 9-max Seat #2 is the button
+Seat 1: Region322 (6058 in chips) 
+Seat 2: Gust8077 (1572 in chips) 
+Seat 3: T$ymbal (3204 in chips) 
+Seat 4: thiagomagal_ (2021 in chips) 
+Seat 5: nithinv (3173 in chips) 
+Seat 6: Rad_mirr (1582 in chips) 
+Seat 7: Gonjo75 (1656 in chips) 
+Seat 8: jeVITIX (2228 in chips) 
+Seat 9: shmi89 (2123 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+nithinv: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+T$ymbal: posts small blind 40
+thiagomagal_: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [3s 3h]
+nithinv: calls 80
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Region322: raises 240 to 320
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+nithinv: calls 240
+*** FLOP *** [5c 6d Qs]
+nithinv: checks 
+Region322: bets 340
+nithinv: calls 340
+*** TURN *** [5c 6d Qs] [As]
+nithinv: checks 
+Region322: checks 
+*** RIVER *** [5c 6d Qs As] [Tc]
+nithinv: checks 
+Region322: checks 
+*** SHOW DOWN ***
+nithinv: shows [8d 9d] (high card Ace)
+Region322: shows [9h 9c] (a pair of Nines)
+Region322 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | Rake 0 
+Board [5c 6d Qs As Tc]
+Seat 1: Region322 showed [9h 9c] and won (1530) with a pair of Nines
+Seat 2: Gust8077 (button) folded before Flop (didn't bet)
+Seat 3: T$ymbal (small blind) folded before Flop
+Seat 4: thiagomagal_ (big blind) folded before Flop
+Seat 5: nithinv showed [8d 9d] and lost with high card Ace
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611752407: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:21:41 BRT [2015/11/10 11:21:41 ET]
+Table '1376137207 1' 9-max Seat #3 is the button
+Seat 1: Region322 (6918 in chips) 
+Seat 2: Gust8077 (1562 in chips) 
+Seat 3: T$ymbal (3154 in chips) 
+Seat 4: thiagomagal_ (1931 in chips) 
+Seat 5: nithinv (2503 in chips) 
+Seat 6: Rad_mirr (1572 in chips) 
+Seat 7: Gonjo75 (1646 in chips) 
+Seat 8: jeVITIX (2218 in chips) 
+Seat 9: shmi89 (2113 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+nithinv: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+thiagomagal_: posts small blind 40
+nithinv: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [9h Ac]
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Region322: folds 
+Gust8077: raises 84 to 164
+T$ymbal: folds 
+thiagomagal_: folds 
+nithinv: calls 84
+*** FLOP *** [6s 5d Ks]
+nithinv: checks 
+Gust8077: bets 160
+nithinv: folds 
+Uncalled bet (160) returned to Gust8077
+Gust8077 collected 458 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 458 | Rake 0 
+Board [6s 5d Ks]
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 collected (458)
+Seat 3: T$ymbal (button) folded before Flop (didn't bet)
+Seat 4: thiagomagal_ (small blind) folded before Flop
+Seat 5: nithinv (big blind) folded on the Flop
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611784595: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:22:22 BRT [2015/11/10 11:22:22 ET]
+Table '1376137207 1' 9-max Seat #4 is the button
+Seat 1: Region322 (6908 in chips) 
+Seat 2: Gust8077 (1846 in chips) 
+Seat 3: T$ymbal (3144 in chips) 
+Seat 4: thiagomagal_ (1881 in chips) 
+Seat 5: nithinv (2329 in chips) 
+Seat 6: Rad_mirr (1562 in chips) 
+Seat 7: Gonjo75 (1636 in chips) 
+Seat 8: jeVITIX (2208 in chips) 
+Seat 9: shmi89 (2103 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+nithinv: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+nithinv: posts small blind 40
+Rad_mirr: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [2s Kc]
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Region322: folds 
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: raises 100 to 180
+nithinv: calls 140
+Rad_mirr: folds 
+*** FLOP *** [7d 8s 3d]
+nithinv: checks 
+thiagomagal_: bets 240
+nithinv: folds 
+Uncalled bet (240) returned to thiagomagal_
+thiagomagal_ collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [7d 8s 3d]
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ (button) collected (530)
+Seat 5: nithinv (small blind) folded on the Flop
+Seat 6: Rad_mirr (big blind) folded before Flop
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611814877: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:23:01 BRT [2015/11/10 11:23:01 ET]
+Table '1376137207 1' 9-max Seat #5 is the button
+Seat 1: Region322 (6898 in chips) 
+Seat 2: Gust8077 (1836 in chips) 
+Seat 3: T$ymbal (3134 in chips) 
+Seat 4: thiagomagal_ (2221 in chips) 
+Seat 5: nithinv (2139 in chips) 
+Seat 6: Rad_mirr (1472 in chips) 
+Seat 7: Gonjo75 (1626 in chips) 
+Seat 8: jeVITIX (2198 in chips) 
+Seat 9: shmi89 (2093 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+nithinv: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+Rad_mirr: posts small blind 40
+Gonjo75: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qd 5s]
+jeVITIX: folds 
+shmi89: folds 
+Region322: folds 
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+nithinv: folds 
+Rad_mirr: raises 90 to 170
+Gonjo75: folds 
+Uncalled bet (90) returned to Rad_mirr
+Rad_mirr collected 250 from pot
+Rad_mirr: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 5: nithinv (button) folded before Flop (didn't bet)
+Seat 6: Rad_mirr (small blind) collected (250)
+Seat 7: Gonjo75 (big blind) folded before Flop
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611837428: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:23:30 BRT [2015/11/10 11:23:30 ET]
+Table '1376137207 1' 9-max Seat #6 is the button
+Seat 1: Region322 (6888 in chips) 
+Seat 2: Gust8077 (1826 in chips) 
+Seat 3: T$ymbal (3124 in chips) 
+Seat 4: thiagomagal_ (2211 in chips) 
+Seat 5: nithinv (2129 in chips) 
+Seat 6: Rad_mirr (1632 in chips) 
+Seat 7: Gonjo75 (1536 in chips) 
+Seat 8: jeVITIX (2188 in chips) 
+Seat 9: shmi89 (2083 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+nithinv: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+Gonjo75: posts small blind 40
+jeVITIX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [2d 8s]
+shmi89: folds 
+Region322: raises 120 to 200
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+nithinv: raises 1919 to 2119 and is all-in
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+Region322: calls 1919
+*** FLOP *** [Jd 4c 3d]
+*** TURN *** [Jd 4c 3d] [9h]
+*** RIVER *** [Jd 4c 3d 9h] [3c]
+*** SHOW DOWN ***
+Region322: shows [Qh Qs] (two pair, Queens and Threes)
+nithinv: shows [9d Ah] (two pair, Nines and Threes)
+Region322 collected 4448 from pot
+nithinv finished the tournament in 33rd place
+*** SUMMARY ***
+Total pot 4448 | Rake 0 
+Board [Jd 4c 3d 9h 3c]
+Seat 1: Region322 showed [Qh Qs] and won (4448) with two pair, Queens and Threes
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 5: nithinv showed [9d Ah] and lost with two pair, Nines and Threes
+Seat 6: Rad_mirr (button) folded before Flop (didn't bet)
+Seat 7: Gonjo75 (small blind) folded before Flop
+Seat 8: jeVITIX (big blind) folded before Flop
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611867066: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:24:08 BRT [2015/11/10 11:24:08 ET]
+Table '1376137207 1' 9-max Seat #7 is the button
+Seat 1: Region322 (9207 in chips) 
+Seat 2: Gust8077 (1816 in chips) 
+Seat 3: T$ymbal (3114 in chips) 
+Seat 4: thiagomagal_ (2201 in chips) 
+Seat 6: Rad_mirr (1622 in chips) 
+Seat 7: Gonjo75 (1486 in chips) 
+Seat 8: jeVITIX (2098 in chips) 
+Seat 9: shmi89 (2073 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+jeVITIX: posts small blind 40
+shmi89: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [Jc Qh]
+Region322: raises 80 to 160
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Uncalled bet (80) returned to Region322
+Region322 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: Region322 collected (280)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 (button) folded before Flop (didn't bet)
+Seat 8: jeVITIX (small blind) folded before Flop
+Seat 9: shmi89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143611885021: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:24:32 BRT [2015/11/10 11:24:32 ET]
+Table '1376137207 1' 9-max Seat #8 is the button
+Seat 1: Region322 (9397 in chips) 
+Seat 2: Gust8077 (1806 in chips) 
+Seat 3: T$ymbal (3104 in chips) 
+Seat 4: thiagomagal_ (2191 in chips) 
+Seat 6: Rad_mirr (1612 in chips) 
+Seat 7: Gonjo75 (1476 in chips) 
+Seat 8: jeVITIX (2048 in chips) 
+Seat 9: shmi89 (1983 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+shmi89: posts small blind 40
+Region322: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [2h 5s]
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Uncalled bet (40) returned to Region322
+Region322 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Region322 (big blind) collected (160)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX (button) folded before Flop (didn't bet)
+Seat 9: shmi89 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143611902092: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:24:54 BRT [2015/11/10 11:24:54 ET]
+Table '1376137207 1' 9-max Seat #9 is the button
+Seat 1: Region322 (9507 in chips) 
+Seat 2: Gust8077 (1796 in chips) 
+Seat 3: T$ymbal (3094 in chips) 
+Seat 4: thiagomagal_ (2181 in chips) 
+Seat 6: Rad_mirr (1602 in chips) 
+Seat 7: Gonjo75 (1466 in chips) 
+Seat 8: jeVITIX (2038 in chips) 
+Seat 9: shmi89 (1933 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+Region322: posts small blind 40
+Gust8077: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [Jd 6s]
+T$ymbal: folds 
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Region322: folds 
+Uncalled bet (40) returned to Gust8077
+Gust8077 collected 160 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Region322 (small blind) folded before Flop
+Seat 2: Gust8077 (big blind) collected (160)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611930373: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:25:30 BRT [2015/11/10 11:25:30 ET]
+Table '1376137207 1' 9-max Seat #1 is the button
+Seat 1: Region322 (9457 in chips) 
+Seat 2: Gust8077 (1906 in chips) 
+Seat 3: T$ymbal (3084 in chips) 
+Seat 4: thiagomagal_ (2171 in chips) 
+Seat 6: Rad_mirr (1592 in chips) 
+Seat 7: Gonjo75 (1456 in chips) 
+Seat 8: jeVITIX (2028 in chips) 
+Seat 9: shmi89 (1923 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+Gust8077: posts small blind 40
+T$ymbal: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qc 2c]
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: raises 120 to 200
+Region322: folds 
+Gust8077: raises 215 to 415
+T$ymbal: folds 
+shmi89: folds 
+Uncalled bet (215) returned to Gust8077
+Gust8077 collected 560 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: Region322 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) collected (560)
+Seat 3: T$ymbal (big blind) folded before Flop
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop
+
+
+
+PokerStars Hand #143611964767: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:26:13 BRT [2015/11/10 11:26:13 ET]
+Table '1376137207 1' 9-max Seat #2 is the button
+Seat 1: Region322 (9447 in chips) 
+Seat 2: Gust8077 (2256 in chips) 
+Seat 3: T$ymbal (2994 in chips) 
+Seat 4: thiagomagal_ (2161 in chips) 
+Seat 6: Rad_mirr (1582 in chips) 
+Seat 7: Gonjo75 (1446 in chips) 
+Seat 8: jeVITIX (2018 in chips) 
+Seat 9: shmi89 (1713 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+T$ymbal: posts small blind 40
+thiagomagal_: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [6d Qs]
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Region322: raises 120 to 200
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+Uncalled bet (120) returned to Region322
+Region322 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: Region322 collected (280)
+Seat 2: Gust8077 (button) folded before Flop (didn't bet)
+Seat 3: T$ymbal (small blind) folded before Flop
+Seat 4: thiagomagal_ (big blind) folded before Flop
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143611989898: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:26:46 BRT [2015/11/10 11:26:46 ET]
+Table '1376137207 1' 9-max Seat #3 is the button
+Seat 1: Region322 (9637 in chips) 
+Seat 2: Gust8077 (2246 in chips) 
+Seat 3: T$ymbal (2944 in chips) 
+Seat 4: thiagomagal_ (2071 in chips) 
+Seat 6: Rad_mirr (1572 in chips) 
+Seat 7: Gonjo75 (1436 in chips) 
+Seat 8: jeVITIX (2008 in chips) 
+Seat 9: shmi89 (1703 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+thiagomagal_: posts small blind 40
+Rad_mirr: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [Kh Qs]
+Gonjo75: folds 
+jeVITIX: raises 120 to 200
+shmi89: folds 
+Region322: folds 
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+Rad_mirr: folds 
+Uncalled bet (120) returned to jeVITIX
+jeVITIX collected 280 from pot
+jeVITIX: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal (button) folded before Flop (didn't bet)
+Seat 4: thiagomagal_ (small blind) folded before Flop
+Seat 6: Rad_mirr (big blind) folded before Flop
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX collected (280)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612009514: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:27:11 BRT [2015/11/10 11:27:11 ET]
+Table '1376137207 1' 9-max Seat #4 is the button
+Seat 1: Region322 (9627 in chips) 
+Seat 2: Gust8077 (2236 in chips) 
+Seat 3: T$ymbal (2934 in chips) 
+Seat 4: thiagomagal_ (2021 in chips) 
+Seat 6: Rad_mirr (1482 in chips) 
+Seat 7: Gonjo75 (1426 in chips) 
+Seat 8: jeVITIX (2198 in chips) 
+Seat 9: shmi89 (1693 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+Rad_mirr: posts small blind 40
+Gonjo75: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [4s 4h]
+jeVITIX: folds 
+shmi89: folds 
+Region322: raises 120 to 200
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: folds 
+Uncalled bet (120) returned to Region322
+Region322 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: Region322 collected (280)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ (button) folded before Flop (didn't bet)
+Seat 6: Rad_mirr (small blind) folded before Flop
+Seat 7: Gonjo75 (big blind) folded before Flop
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612031560: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:27:39 BRT [2015/11/10 11:27:39 ET]
+Table '1376137207 1' 9-max Seat #6 is the button
+Seat 1: Region322 (9817 in chips) 
+Seat 2: Gust8077 (2226 in chips) 
+Seat 3: T$ymbal (2924 in chips) 
+Seat 4: thiagomagal_ (2011 in chips) 
+Seat 6: Rad_mirr (1432 in chips) 
+Seat 7: Gonjo75 (1336 in chips) 
+Seat 8: jeVITIX (2188 in chips) 
+Seat 9: shmi89 (1683 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+Gonjo75: posts small blind 40
+jeVITIX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [3d Ts]
+shmi89: folds 
+Region322: raises 120 to 200
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+Rad_mirr: raises 1222 to 1422 and is all-in
+Gonjo75: folds 
+jeVITIX: folds 
+Region322: calls 1222
+*** FLOP *** [Js 5s Jc]
+*** TURN *** [Js 5s Jc] [7d]
+*** RIVER *** [Js 5s Jc 7d] [Jd]
+*** SHOW DOWN ***
+Region322: shows [8c 8d] (a full house, Jacks full of Eights)
+Rad_mirr: shows [Qs Qh] (a full house, Jacks full of Queens)
+Rad_mirr collected 3044 from pot
+*** SUMMARY ***
+Total pot 3044 | Rake 0 
+Board [Js 5s Jc 7d Jd]
+Seat 1: Region322 showed [8c 8d] and lost with a full house, Jacks full of Eights
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr (button) showed [Qs Qh] and won (3044) with a full house, Jacks full of Queens
+Seat 7: Gonjo75 (small blind) folded before Flop
+Seat 8: jeVITIX (big blind) folded before Flop
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612063784: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:28:19 BRT [2015/11/10 11:28:19 ET]
+Table '1376137207 1' 9-max Seat #7 is the button
+Seat 1: Region322 (8385 in chips) 
+Seat 2: Gust8077 (2216 in chips) 
+Seat 3: T$ymbal (2914 in chips) 
+Seat 4: thiagomagal_ (2001 in chips) 
+Seat 6: Rad_mirr (3044 in chips) 
+Seat 7: Gonjo75 (1286 in chips) 
+Seat 8: jeVITIX (2098 in chips) 
+Seat 9: shmi89 (1673 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+jeVITIX: posts small blind 40
+shmi89: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [9s Qc]
+Region322: folds 
+Gust8077: folds 
+T$ymbal: raises 80 to 160
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Uncalled bet (80) returned to T$ymbal
+T$ymbal collected 280 from pot
+T$ymbal: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal collected (280)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 (button) folded before Flop (didn't bet)
+Seat 8: jeVITIX (small blind) folded before Flop
+Seat 9: shmi89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143612085287: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:28:47 BRT [2015/11/10 11:28:47 ET]
+Table '1376137207 1' 9-max Seat #8 is the button
+Seat 1: Region322 (8375 in chips) 
+Seat 2: Gust8077 (2206 in chips) 
+Seat 3: T$ymbal (3104 in chips) 
+Seat 4: thiagomagal_ (1991 in chips) 
+Seat 6: Rad_mirr (3034 in chips) 
+Seat 7: Gonjo75 (1276 in chips) 
+Seat 8: jeVITIX (2048 in chips) 
+Seat 9: shmi89 (1583 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+shmi89: posts small blind 40
+Region322: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [2c 6s]
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Uncalled bet (40) returned to Region322
+Region322 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Region322 (big blind) collected (160)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX (button) folded before Flop (didn't bet)
+Seat 9: shmi89 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143612112177: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level IV (40/80) - 2015/11/10 14:29:20 BRT [2015/11/10 11:29:20 ET]
+Table '1376137207 1' 9-max Seat #9 is the button
+Seat 1: Region322 (8485 in chips) 
+Seat 2: Gust8077 (2196 in chips) 
+Seat 3: T$ymbal (3094 in chips) 
+Seat 4: thiagomagal_ (1981 in chips) 
+Seat 6: Rad_mirr (3024 in chips) 
+Seat 7: Gonjo75 (1266 in chips) 
+Seat 8: jeVITIX (2038 in chips) 
+Seat 9: shmi89 (1533 in chips) 
+Region322: posts the ante 10
+Gust8077: posts the ante 10
+T$ymbal: posts the ante 10
+thiagomagal_: posts the ante 10
+Rad_mirr: posts the ante 10
+Gonjo75: posts the ante 10
+jeVITIX: posts the ante 10
+shmi89: posts the ante 10
+Region322: posts small blind 40
+Gust8077: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Gust8077 [2s 2h]
+T$ymbal: folds 
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: calls 80
+jeVITIX: folds 
+shmi89: folds 
+Region322: calls 40
+Gust8077: checks 
+*** FLOP *** [9c Jd 8h]
+Region322: checks 
+Gust8077: checks 
+Gonjo75: checks 
+*** TURN *** [9c Jd 8h] [3s]
+Region322: bets 128
+Gust8077: folds 
+Gonjo75: folds 
+Uncalled bet (128) returned to Region322
+Region322 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [9c Jd 8h 3s]
+Seat 1: Region322 (small blind) collected (320)
+Seat 2: Gust8077 (big blind) folded on the Turn
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded on the Turn
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612163764: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:30:25 BRT [2015/11/10 11:30:25 ET]
+Table '1376137207 1' 9-max Seat #1 is the button
+Seat 1: Region322 (8715 in chips) 
+Seat 2: Gust8077 (2106 in chips) 
+Seat 3: T$ymbal (3084 in chips) 
+Seat 4: thiagomagal_ (1971 in chips) 
+Seat 6: Rad_mirr (3014 in chips) 
+Seat 7: Gonjo75 (1176 in chips) 
+Seat 8: jeVITIX (2028 in chips) 
+Seat 9: shmi89 (1523 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+T$ymbal: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+shmi89: posts the ante 15
+Gust8077: posts small blind 60
+T$ymbal: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [2c Jc]
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: raises 180 to 300
+jeVITIX: folds 
+shmi89: folds 
+Region322: folds 
+Gust8077: folds 
+T$ymbal: folds 
+Uncalled bet (180) returned to Gonjo75
+Gonjo75 collected 420 from pot
+Gonjo75: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: Region322 (button) folded before Flop (didn't bet)
+Seat 2: Gust8077 (small blind) folded before Flop
+Seat 3: T$ymbal (big blind) folded before Flop
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 collected (420)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612190629: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:30:59 BRT [2015/11/10 11:30:59 ET]
+Table '1376137207 1' 9-max Seat #2 is the button
+Seat 1: Region322 (8700 in chips) 
+Seat 2: Gust8077 (2031 in chips) 
+Seat 3: T$ymbal (2949 in chips) 
+Seat 4: thiagomagal_ (1956 in chips) 
+Seat 6: Rad_mirr (2999 in chips) 
+Seat 7: Gonjo75 (1461 in chips) 
+Seat 8: jeVITIX (2013 in chips) 
+Seat 9: shmi89 (1508 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+T$ymbal: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+shmi89: posts the ante 15
+T$ymbal: posts small blind 60
+thiagomagal_: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [Js Qc]
+Rad_mirr: folds 
+Gonjo75: calls 120
+jeVITIX: folds 
+shmi89: folds 
+Region322: folds 
+Gust8077: raises 180 to 300
+T$ymbal: folds 
+thiagomagal_: folds 
+Gonjo75: folds 
+Uncalled bet (180) returned to Gust8077
+Gust8077 collected 540 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 (button) collected (540)
+Seat 3: T$ymbal (small blind) folded before Flop
+Seat 4: thiagomagal_ (big blind) folded before Flop
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612237018: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:31:57 BRT [2015/11/10 11:31:57 ET]
+Table '1376137207 1' 9-max Seat #3 is the button
+Seat 1: Region322 (8685 in chips) 
+Seat 2: Gust8077 (2436 in chips) 
+Seat 3: T$ymbal (2874 in chips) 
+Seat 4: thiagomagal_ (1821 in chips) 
+Seat 6: Rad_mirr (2984 in chips) 
+Seat 7: Gonjo75 (1326 in chips) 
+Seat 8: jeVITIX (1998 in chips) 
+Seat 9: shmi89 (1493 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+T$ymbal: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+shmi89: posts the ante 15
+thiagomagal_: posts small blind 60
+Rad_mirr: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [3s Ah]
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Region322: raises 180 to 300
+Gust8077: folds 
+T$ymbal: folds 
+thiagomagal_: folds 
+Rad_mirr: folds 
+Uncalled bet (180) returned to Region322
+Region322 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: Region322 collected (420)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 3: T$ymbal (button) folded before Flop (didn't bet)
+Seat 4: thiagomagal_ (small blind) folded before Flop
+Seat 6: Rad_mirr (big blind) folded before Flop
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612279631: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:32:50 BRT [2015/11/10 11:32:50 ET]
+Table '1376137207 1' 9-max Seat #4 is the button
+Seat 1: Region322 (8970 in chips) 
+Seat 2: Gust8077 (2421 in chips) 
+Seat 3: T$ymbal (2859 in chips) 
+Seat 4: thiagomagal_ (1746 in chips) 
+Seat 6: Rad_mirr (2849 in chips) 
+Seat 7: Gonjo75 (1311 in chips) 
+Seat 8: jeVITIX (1983 in chips) 
+Seat 9: shmi89 (1478 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+T$ymbal: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+shmi89: posts the ante 15
+Rad_mirr: posts small blind 60
+Gonjo75: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [3c 2c]
+jeVITIX: folds 
+shmi89: folds 
+Region322: folds 
+Gust8077: raises 126 to 246
+T$ymbal: folds 
+thiagomagal_: calls 246
+Rad_mirr: folds 
+Gonjo75: calls 126
+*** FLOP *** [7d Ac 6h]
+Gonjo75: checks 
+Gust8077: bets 320
+thiagomagal_: raises 1165 to 1485 and is all-in
+Gonjo75: folds 
+Gust8077: folds 
+Uncalled bet (1165) returned to thiagomagal_
+thiagomagal_ collected 1558 from pot
+*** SUMMARY ***
+Total pot 1558 | Rake 0 
+Board [7d Ac 6h]
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 folded on the Flop
+Seat 3: T$ymbal folded before Flop (didn't bet)
+Seat 4: thiagomagal_ (button) collected (1558)
+Seat 6: Rad_mirr (small blind) folded before Flop
+Seat 7: Gonjo75 (big blind) folded on the Flop
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612347992: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:34:15 BRT [2015/11/10 11:34:15 ET]
+Table '1376137207 1' 9-max Seat #6 is the button
+Seat 1: Region322 (8955 in chips) 
+Seat 2: Gust8077 (1840 in chips) 
+Seat 4: thiagomagal_ (2723 in chips) 
+Seat 6: Rad_mirr (2774 in chips) 
+Seat 7: Gonjo75 (1050 in chips) 
+Seat 8: jeVITIX (1968 in chips) 
+Seat 9: shmi89 (1463 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+shmi89: posts the ante 15
+Gonjo75: posts small blind 60
+jeVITIX: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [5c 5d]
+shmi89: folds 
+Region322: folds 
+Gust8077: raises 120 to 240
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+Uncalled bet (120) returned to Gust8077
+Gust8077 collected 405 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 collected (405)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr (button) folded before Flop (didn't bet)
+Seat 7: Gonjo75 (small blind) folded before Flop
+Seat 8: jeVITIX (big blind) folded before Flop
+Seat 9: shmi89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612365380: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:34:37 BRT [2015/11/10 11:34:37 ET]
+Table '1376137207 1' 9-max Seat #7 is the button
+Seat 1: Region322 (8940 in chips) 
+Seat 2: Gust8077 (2110 in chips) 
+Seat 4: thiagomagal_ (2708 in chips) 
+Seat 6: Rad_mirr (2759 in chips) 
+Seat 7: Gonjo75 (975 in chips) 
+Seat 8: jeVITIX (1833 in chips) 
+Seat 9: shmi89 (1448 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+shmi89: posts the ante 15
+jeVITIX: posts small blind 60
+shmi89: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [Kc 4d]
+Region322: folds 
+Gust8077: folds 
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: raises 180 to 300
+jeVITIX: folds 
+shmi89: folds 
+Uncalled bet (180) returned to Gonjo75
+Gonjo75 collected 405 from pot
+Gonjo75: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 (button) collected (405)
+Seat 8: jeVITIX (small blind) folded before Flop
+Seat 9: shmi89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143612382236: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:34:58 BRT [2015/11/10 11:34:58 ET]
+Table '1376137207 1' 9-max Seat #8 is the button
+Seat 1: Region322 (8925 in chips) 
+Seat 2: Gust8077 (2095 in chips) 
+Seat 4: thiagomagal_ (2693 in chips) 
+Seat 6: Rad_mirr (2744 in chips) 
+Seat 7: Gonjo75 (1245 in chips) 
+Seat 8: jeVITIX (1758 in chips) 
+Seat 9: shmi89 (1313 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+shmi89: posts the ante 15
+shmi89: posts small blind 60
+Region322: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [2h 3s]
+Gust8077: folds 
+thiagomagal_: raises 120 to 240
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: folds 
+Region322: folds 
+Uncalled bet (120) returned to thiagomagal_
+thiagomagal_ collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: Region322 (big blind) folded before Flop
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 4: thiagomagal_ collected (405)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX (button) folded before Flop (didn't bet)
+Seat 9: shmi89 (small blind) folded before Flop
+
+
+
+PokerStars Hand #143612406864: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:35:28 BRT [2015/11/10 11:35:28 ET]
+Table '1376137207 1' 9-max Seat #9 is the button
+Seat 1: Region322 (8790 in chips) 
+Seat 2: Gust8077 (2080 in chips) 
+Seat 4: thiagomagal_ (2963 in chips) 
+Seat 6: Rad_mirr (2729 in chips) 
+Seat 7: Gonjo75 (1230 in chips) 
+Seat 8: jeVITIX (1743 in chips) 
+Seat 9: shmi89 (1238 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+shmi89: posts the ante 15
+Region322: posts small blind 60
+Gust8077: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [2s 7c]
+thiagomagal_: folds 
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: raises 120 to 240
+shmi89: folds 
+Region322: folds 
+Gust8077: folds 
+Uncalled bet (120) returned to jeVITIX
+jeVITIX collected 405 from pot
+jeVITIX: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: Region322 (small blind) folded before Flop
+Seat 2: Gust8077 (big blind) folded before Flop
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX collected (405)
+Seat 9: shmi89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612429101: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:35:56 BRT [2015/11/10 11:35:56 ET]
+Table '1376137207 1' 9-max Seat #1 is the button
+Seat 1: Region322 (8715 in chips) 
+Seat 2: Gust8077 (1945 in chips) 
+Seat 4: thiagomagal_ (2948 in chips) 
+Seat 6: Rad_mirr (2714 in chips) 
+Seat 7: Gonjo75 (1215 in chips) 
+Seat 8: jeVITIX (2013 in chips) 
+Seat 9: shmi89 (1223 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+shmi89: posts the ante 15
+Gust8077: posts small blind 60
+thiagomagal_: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ac Kh]
+Rad_mirr: folds 
+Gonjo75: folds 
+jeVITIX: folds 
+shmi89: raises 1088 to 1208 and is all-in
+Region322: raises 7492 to 8700 and is all-in
+Gust8077: folds 
+thiagomagal_: folds 
+Uncalled bet (7492) returned to Region322
+*** FLOP *** [Jd Kd 6s]
+*** TURN *** [Jd Kd 6s] [7c]
+*** RIVER *** [Jd Kd 6s 7c] [6c]
+*** SHOW DOWN ***
+shmi89: shows [3h As] (a pair of Sixes)
+Region322: shows [Ah Qd] (a pair of Sixes - Ace+King+Queen kicker)
+Region322 collected 2701 from pot
+shmi89 finished the tournament in 29th place
+*** SUMMARY ***
+Total pot 2701 | Rake 0 
+Board [Jd Kd 6s 7c 6c]
+Seat 1: Region322 (button) showed [Ah Qd] and won (2701) with a pair of Sixes
+Seat 2: Gust8077 (small blind) folded before Flop
+Seat 4: thiagomagal_ (big blind) folded before Flop
+Seat 6: Rad_mirr folded before Flop (didn't bet)
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: shmi89 showed [3h As] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #143612453052: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:36:26 BRT [2015/11/10 11:36:26 ET]
+Table '1376137207 1' 9-max Seat #2 is the button
+Seat 1: Region322 (10193 in chips) 
+Seat 2: Gust8077 (1870 in chips) 
+Seat 4: thiagomagal_ (2813 in chips) 
+Seat 6: Rad_mirr (2699 in chips) 
+Seat 7: Gonjo75 (1200 in chips) 
+Seat 8: jeVITIX (1998 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+thiagomagal_: posts small blind 60
+Rad_mirr: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [6h Ks]
+Gonjo75: folds 
+jeVITIX: folds 
+Region322: folds 
+Gust8077: folds 
+thiagomagal_: raises 120 to 240
+Rad_mirr: calls 120
+*** FLOP *** [Qh 5c 7h]
+thiagomagal_: bets 270
+Rad_mirr: folds 
+Uncalled bet (270) returned to thiagomagal_
+thiagomagal_ collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Qh 5c 7h]
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 (button) folded before Flop (didn't bet)
+Seat 4: thiagomagal_ (small blind) collected (570)
+Seat 6: Rad_mirr (big blind) folded on the Flop
+Seat 7: Gonjo75 folded before Flop (didn't bet)
+Seat 8: jeVITIX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612488326: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:37:10 BRT [2015/11/10 11:37:10 ET]
+Table '1376137207 1' 9-max Seat #4 is the button
+Seat 1: Region322 (10178 in chips) 
+Seat 2: Gust8077 (1855 in chips) 
+Seat 4: thiagomagal_ (3128 in chips) 
+Seat 6: Rad_mirr (2444 in chips) 
+Seat 7: Gonjo75 (1185 in chips) 
+Seat 8: jeVITIX (1983 in chips) 
+Seat 9: pocoyo088 (2000 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+pocoyo088: posts the ante 15
+Rad_mirr: posts small blind 60
+Gonjo75: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [8s Kd]
+jeVITIX: folds 
+pocoyo088: folds 
+Region322: folds 
+Gust8077: folds 
+thiagomagal_: folds 
+Rad_mirr: raises 2309 to 2429 and is all-in
+Gonjo75: folds 
+Uncalled bet (2309) returned to Rad_mirr
+Rad_mirr collected 345 from pot
+Rad_mirr: doesn't show hand 
+*** SUMMARY ***
+Total pot 345 | Rake 0 
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 4: thiagomagal_ (button) folded before Flop (didn't bet)
+Seat 6: Rad_mirr (small blind) collected (345)
+Seat 7: Gonjo75 (big blind) folded before Flop
+Seat 8: jeVITIX folded before Flop (didn't bet)
+Seat 9: pocoyo088 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612509926: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:37:37 BRT [2015/11/10 11:37:37 ET]
+Table '1376137207 1' 9-max Seat #6 is the button
+Seat 1: Region322 (10163 in chips) 
+Seat 2: Gust8077 (1840 in chips) 
+Seat 4: thiagomagal_ (3113 in chips) 
+Seat 6: Rad_mirr (2654 in chips) 
+Seat 7: Gonjo75 (1050 in chips) 
+Seat 8: jeVITIX (1968 in chips) 
+Seat 9: pocoyo088 (1985 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+pocoyo088: posts the ante 15
+Gonjo75: posts small blind 60
+jeVITIX: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [9h 8s]
+pocoyo088: folds 
+Region322: folds 
+Gust8077: folds 
+thiagomagal_: raises 180 to 300
+Rad_mirr: folds 
+Gonjo75: raises 540 to 840
+jeVITIX: folds 
+thiagomagal_: raises 540 to 1380
+Gonjo75: calls 195 and is all-in
+Uncalled bet (345) returned to thiagomagal_
+*** FLOP *** [7h 2h 7s]
+*** TURN *** [7h 2h 7s] [Jh]
+*** RIVER *** [7h 2h 7s Jh] [5h]
+*** SHOW DOWN ***
+Gonjo75: shows [As Ah] (a flush, Ace high)
+thiagomagal_: shows [Tc Th] (a flush, Jack high)
+Gonjo75 collected 2295 from pot
+*** SUMMARY ***
+Total pot 2295 | Rake 0 
+Board [7h 2h 7s Jh 5h]
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 4: thiagomagal_ showed [Tc Th] and lost with a flush, Jack high
+Seat 6: Rad_mirr (button) folded before Flop (didn't bet)
+Seat 7: Gonjo75 (small blind) showed [As Ah] and won (2295) with a flush, Ace high
+Seat 8: jeVITIX (big blind) folded before Flop
+Seat 9: pocoyo088 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612545940: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:38:22 BRT [2015/11/10 11:38:22 ET]
+Table '1376137207 1' 9-max Seat #7 is the button
+Seat 1: Region322 (10148 in chips) 
+Seat 2: Gust8077 (1825 in chips) 
+Seat 4: thiagomagal_ (2063 in chips) 
+Seat 6: Rad_mirr (2639 in chips) 
+Seat 7: Gonjo75 (2295 in chips) 
+Seat 8: jeVITIX (1833 in chips) 
+Seat 9: pocoyo088 (1970 in chips) 
+Region322: posts the ante 15
+Gust8077: posts the ante 15
+thiagomagal_: posts the ante 15
+Rad_mirr: posts the ante 15
+Gonjo75: posts the ante 15
+jeVITIX: posts the ante 15
+pocoyo088: posts the ante 15
+jeVITIX: posts small blind 60
+pocoyo088: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ts 3d]
+Region322: folds 
+Gust8077: folds 
+thiagomagal_: folds 
+Rad_mirr: raises 135 to 255
+Gonjo75: folds 
+jeVITIX: raises 1563 to 1818 and is all-in
+pocoyo088: folds 
+Rad_mirr: calls 1563
+*** FLOP *** [2h Qs Kd]
+*** TURN *** [2h Qs Kd] [Qd]
+*** RIVER *** [2h Qs Kd Qd] [As]
+*** SHOW DOWN ***
+jeVITIX: shows [7s 4c] (a pair of Queens)
+Rad_mirr: shows [9d Ah] (two pair, Aces and Queens)
+Rad_mirr collected 3861 from pot
+jeVITIX finished the tournament in 28th place
+*** SUMMARY ***
+Total pot 3861 | Rake 0 
+Board [2h Qs Kd Qd As]
+Seat 1: Region322 folded before Flop (didn't bet)
+Seat 2: Gust8077 folded before Flop (didn't bet)
+Seat 4: thiagomagal_ folded before Flop (didn't bet)
+Seat 6: Rad_mirr showed [9d Ah] and won (3861) with two pair, Aces and Queens
+Seat 7: Gonjo75 (button) folded before Flop (didn't bet)
+Seat 8: jeVITIX (small blind) showed [7s 4c] and lost with a pair of Queens
+Seat 9: pocoyo088 (big blind) folded before Flop
+
+
+
+PokerStars Hand #143612582795: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:39:08 BRT [2015/11/10 11:39:08 ET]
+Table '1376137207 3' 9-max Seat #4 is the button
+Seat 1: tito18c (4384 in chips) 
+Seat 2: Rad_mirr (4667 in chips) 
+Seat 3: leader2151 (1889 in chips) 
+Seat 4: Carstie71 (1607 in chips) 
+Seat 5: zloober (728 in chips) 
+Seat 6: PureAtHeart (2739 in chips) 
+Seat 7: Gust8077 (1810 in chips) 
+Seat 8: mr deck81 (686 in chips) 
+Seat 9: T$ymbal (3664 in chips) 
+tito18c: posts the ante 15
+Rad_mirr: posts the ante 15
+leader2151: posts the ante 15
+Carstie71: posts the ante 15
+zloober: posts the ante 15
+PureAtHeart: posts the ante 15
+Gust8077: posts the ante 15
+mr deck81: posts the ante 15
+T$ymbal: posts the ante 15
+zloober: posts small blind 60
+PureAtHeart: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [6s 2c]
+Gust8077: folds 
+mr deck81: folds 
+T$ymbal: folds 
+tito18c: folds 
+Rad_mirr: raises 135 to 255
+leader2151: folds 
+Carstie71: folds 
+zloober: folds 
+PureAtHeart: folds 
+Uncalled bet (135) returned to Rad_mirr
+Rad_mirr collected 435 from pot
+Rad_mirr: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: tito18c folded before Flop (didn't bet)
+Seat 2: Rad_mirr collected (435)
+Seat 3: leader2151 folded before Flop (didn't bet)
+Seat 4: Carstie71 (button) folded before Flop (didn't bet)
+Seat 5: zloober (small blind) folded before Flop
+Seat 6: PureAtHeart (big blind) folded before Flop
+Seat 7: Gust8077 folded before Flop (didn't bet)
+Seat 8: mr deck81 folded before Flop (didn't bet)
+Seat 9: T$ymbal folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612600940: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:39:31 BRT [2015/11/10 11:39:31 ET]
+Table '1376137207 3' 9-max Seat #5 is the button
+Seat 1: tito18c (4369 in chips) 
+Seat 2: Rad_mirr (4967 in chips) 
+Seat 3: leader2151 (1874 in chips) 
+Seat 4: Carstie71 (1592 in chips) 
+Seat 5: zloober (653 in chips) 
+Seat 6: PureAtHeart (2604 in chips) 
+Seat 7: Gust8077 (1795 in chips) 
+Seat 8: mr deck81 (671 in chips) 
+Seat 9: T$ymbal (3649 in chips) 
+tito18c: posts the ante 15
+Rad_mirr: posts the ante 15
+leader2151: posts the ante 15
+Carstie71: posts the ante 15
+zloober: posts the ante 15
+PureAtHeart: posts the ante 15
+Gust8077: posts the ante 15
+mr deck81: posts the ante 15
+T$ymbal: posts the ante 15
+PureAtHeart: posts small blind 60
+Gust8077: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [Td 2s]
+mr deck81: folds 
+T$ymbal: folds 
+tito18c: folds 
+Rad_mirr: raises 135 to 255
+leader2151: folds 
+Carstie71: folds 
+zloober: folds 
+PureAtHeart: folds 
+Gust8077: folds 
+Uncalled bet (135) returned to Rad_mirr
+Rad_mirr collected 435 from pot
+Rad_mirr: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: tito18c folded before Flop (didn't bet)
+Seat 2: Rad_mirr collected (435)
+Seat 3: leader2151 folded before Flop (didn't bet)
+Seat 4: Carstie71 folded before Flop (didn't bet)
+Seat 5: zloober (button) folded before Flop (didn't bet)
+Seat 6: PureAtHeart (small blind) folded before Flop
+Seat 7: Gust8077 (big blind) folded before Flop
+Seat 8: mr deck81 folded before Flop (didn't bet)
+Seat 9: T$ymbal folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612637299: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level V (60/120) - 2015/11/10 14:40:17 BRT [2015/11/10 11:40:17 ET]
+Table '1376137207 3' 9-max Seat #6 is the button
+Seat 1: tito18c (4354 in chips) 
+Seat 2: Rad_mirr (5267 in chips) 
+Seat 3: leader2151 (1859 in chips) 
+Seat 4: Carstie71 (1577 in chips) 
+Seat 5: zloober (638 in chips) 
+Seat 6: PureAtHeart (2529 in chips) 
+Seat 7: Gust8077 (1660 in chips) 
+Seat 8: mr deck81 (656 in chips) 
+Seat 9: T$ymbal (3634 in chips) 
+tito18c: posts the ante 15
+Rad_mirr: posts the ante 15
+leader2151: posts the ante 15
+Carstie71: posts the ante 15
+zloober: posts the ante 15
+PureAtHeart: posts the ante 15
+Gust8077: posts the ante 15
+mr deck81: posts the ante 15
+T$ymbal: posts the ante 15
+Gust8077: posts small blind 60
+mr deck81: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Gust8077 [8d Kh]
+T$ymbal: folds 
+tito18c: folds 
+Rad_mirr: folds 
+leader2151: raises 1724 to 1844 and is all-in
+Carstie71: folds 
+zloober: folds 
+PureAtHeart: folds 
+Gust8077: folds 
+mr deck81: folds 
+Uncalled bet (1724) returned to leader2151
+leader2151 collected 435 from pot
+leader2151: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: tito18c folded before Flop (didn't bet)
+Seat 2: Rad_mirr folded before Flop (didn't bet)
+Seat 3: leader2151 collected (435)
+Seat 4: Carstie71 folded before Flop (didn't bet)
+Seat 5: zloober folded before Flop (didn't bet)
+Seat 6: PureAtHeart (button) folded before Flop (didn't bet)
+Seat 7: Gust8077 (small blind) folded before Flop
+Seat 8: mr deck81 (big blind) folded before Flop
+Seat 9: T$ymbal folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612697147: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:41:31 BRT [2015/11/10 11:41:31 ET]
+Table '1376137207 3' 9-max Seat #7 is the button
+Seat 1: tito18c (4339 in chips) 
+Seat 2: Rad_mirr (5252 in chips) 
+Seat 3: leader2151 (2159 in chips) 
+Seat 4: Carstie71 (1562 in chips) 
+Seat 5: zloober (623 in chips) 
+Seat 6: PureAtHeart (2514 in chips) 
+Seat 7: Gust8077 (1585 in chips) 
+Seat 8: mr deck81 (521 in chips) 
+Seat 9: T$ymbal (3619 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+zloober: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+mr deck81: posts the ante 20
+T$ymbal: posts the ante 20
+mr deck81: posts small blind 80
+T$ymbal: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [Ks 4d]
+tito18c: folds 
+Rad_mirr: raises 180 to 340
+leader2151: folds 
+Carstie71: folds 
+zloober: folds 
+PureAtHeart: folds 
+Gust8077: folds 
+mr deck81: raises 161 to 501 and is all-in
+T$ymbal: folds 
+Rad_mirr: calls 161
+*** FLOP *** [Kc 4c 9d]
+*** TURN *** [Kc 4c 9d] [As]
+*** RIVER *** [Kc 4c 9d As] [Js]
+*** SHOW DOWN ***
+mr deck81: shows [6h 6s] (a pair of Sixes)
+Rad_mirr: shows [8c 8h] (a pair of Eights)
+Rad_mirr collected 1342 from pot
+mr deck81 finished the tournament in 26th place
+*** SUMMARY ***
+Total pot 1342 | Rake 0 
+Board [Kc 4c 9d As Js]
+Seat 1: tito18c folded before Flop (didn't bet)
+Seat 2: Rad_mirr showed [8c 8h] and won (1342) with a pair of Eights
+Seat 3: leader2151 folded before Flop (didn't bet)
+Seat 4: Carstie71 folded before Flop (didn't bet)
+Seat 5: zloober folded before Flop (didn't bet)
+Seat 6: PureAtHeart folded before Flop (didn't bet)
+Seat 7: Gust8077 (button) folded before Flop (didn't bet)
+Seat 8: mr deck81 (small blind) showed [6h 6s] and lost with a pair of Sixes
+Seat 9: T$ymbal (big blind) folded before Flop
+
+
+
+PokerStars Hand #143612737388: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:42:21 BRT [2015/11/10 11:42:21 ET]
+Table '1376137207 3' 9-max Seat #9 is the button
+Seat 1: tito18c (4319 in chips) 
+Seat 2: Rad_mirr (6073 in chips) 
+Seat 3: leader2151 (2139 in chips) 
+Seat 4: Carstie71 (1542 in chips) 
+Seat 5: zloober (603 in chips) 
+Seat 6: PureAtHeart (2494 in chips) 
+Seat 7: Gust8077 (1565 in chips) 
+Seat 9: T$ymbal (3439 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+zloober: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+T$ymbal: posts the ante 20
+tito18c: posts small blind 80
+Rad_mirr: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [9c Ad]
+leader2151: folds 
+Carstie71: folds 
+zloober: raises 423 to 583 and is all-in
+PureAtHeart: raises 1891 to 2474 and is all-in
+Gust8077: folds 
+T$ymbal: folds 
+tito18c: folds 
+Rad_mirr: folds 
+Uncalled bet (1891) returned to PureAtHeart
+*** FLOP *** [Jd 6h Js]
+*** TURN *** [Jd 6h Js] [Ks]
+*** RIVER *** [Jd 6h Js Ks] [2d]
+*** SHOW DOWN ***
+zloober: shows [6d Ac] (two pair, Jacks and Sixes)
+PureAtHeart: shows [4d 4s] (two pair, Jacks and Fours)
+zloober collected 1566 from pot
+*** SUMMARY ***
+Total pot 1566 | Rake 0 
+Board [Jd 6h Js Ks 2d]
+Seat 1: tito18c (small blind) folded before Flop
+Seat 2: Rad_mirr (big blind) folded before Flop
+Seat 3: leader2151 folded before Flop (didn't bet)
+Seat 4: Carstie71 folded before Flop (didn't bet)
+Seat 5: zloober showed [6d Ac] and won (1566) with two pair, Jacks and Sixes
+Seat 6: PureAtHeart showed [4d 4s] and lost with two pair, Jacks and Fours
+Seat 7: Gust8077 folded before Flop (didn't bet)
+Seat 9: T$ymbal (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612766806: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:42:58 BRT [2015/11/10 11:42:58 ET]
+Table '1376137207 3' 9-max Seat #1 is the button
+Seat 1: tito18c (4219 in chips) 
+Seat 2: Rad_mirr (5893 in chips) 
+Seat 3: leader2151 (2119 in chips) 
+Seat 4: Carstie71 (1522 in chips) 
+Seat 5: zloober (1566 in chips) 
+Seat 6: PureAtHeart (1891 in chips) 
+Seat 7: Gust8077 (1545 in chips) 
+Seat 9: T$ymbal (3419 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+zloober: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+T$ymbal: posts the ante 20
+Rad_mirr: posts small blind 80
+leader2151: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [3h Ts]
+Carstie71: folds 
+zloober: folds 
+PureAtHeart: folds 
+Gust8077: folds 
+T$ymbal: folds 
+tito18c: folds 
+Rad_mirr: folds 
+Uncalled bet (80) returned to leader2151
+leader2151 collected 320 from pot
+leader2151: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: tito18c (button) folded before Flop (didn't bet)
+Seat 2: Rad_mirr (small blind) folded before Flop
+Seat 3: leader2151 (big blind) collected (320)
+Seat 4: Carstie71 folded before Flop (didn't bet)
+Seat 5: zloober folded before Flop (didn't bet)
+Seat 6: PureAtHeart folded before Flop (didn't bet)
+Seat 7: Gust8077 folded before Flop (didn't bet)
+Seat 9: T$ymbal folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612783481: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:43:19 BRT [2015/11/10 11:43:19 ET]
+Table '1376137207 3' 9-max Seat #2 is the button
+Seat 1: tito18c (4199 in chips) 
+Seat 2: Rad_mirr (5793 in chips) 
+Seat 3: leader2151 (2339 in chips) 
+Seat 4: Carstie71 (1502 in chips) 
+Seat 5: zloober (1546 in chips) 
+Seat 6: PureAtHeart (1871 in chips) 
+Seat 7: Gust8077 (1525 in chips) 
+Seat 9: T$ymbal (3399 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+zloober: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+T$ymbal: posts the ante 20
+leader2151: posts small blind 80
+Carstie71: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [3d 7s]
+zloober: folds 
+PureAtHeart: folds 
+Gust8077: folds 
+T$ymbal: raises 160 to 320
+tito18c: folds 
+Rad_mirr: folds 
+leader2151: folds 
+Carstie71: folds 
+Uncalled bet (160) returned to T$ymbal
+T$ymbal collected 560 from pot
+T$ymbal: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: tito18c folded before Flop (didn't bet)
+Seat 2: Rad_mirr (button) folded before Flop (didn't bet)
+Seat 3: leader2151 (small blind) folded before Flop
+Seat 4: Carstie71 (big blind) folded before Flop
+Seat 5: zloober folded before Flop (didn't bet)
+Seat 6: PureAtHeart folded before Flop (didn't bet)
+Seat 7: Gust8077 folded before Flop (didn't bet)
+Seat 9: T$ymbal collected (560)
+
+
+
+PokerStars Hand #143612796598: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:43:35 BRT [2015/11/10 11:43:35 ET]
+Table '1376137207 3' 9-max Seat #3 is the button
+Seat 1: tito18c (4179 in chips) 
+Seat 2: Rad_mirr (5773 in chips) 
+Seat 3: leader2151 (2239 in chips) 
+Seat 4: Carstie71 (1322 in chips) 
+Seat 5: zloober (1526 in chips) 
+Seat 6: PureAtHeart (1851 in chips) 
+Seat 7: Gust8077 (1505 in chips) 
+Seat 9: T$ymbal (3779 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+zloober: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+T$ymbal: posts the ante 20
+Carstie71: posts small blind 80
+zloober: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [As 5s]
+PureAtHeart: folds 
+Gust8077: raises 1325 to 1485 and is all-in
+T$ymbal: folds 
+tito18c: folds 
+Rad_mirr: folds 
+leader2151: folds 
+Carstie71: folds 
+zloober: folds 
+Uncalled bet (1325) returned to Gust8077
+Gust8077 collected 560 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: tito18c folded before Flop (didn't bet)
+Seat 2: Rad_mirr folded before Flop (didn't bet)
+Seat 3: leader2151 (button) folded before Flop (didn't bet)
+Seat 4: Carstie71 (small blind) folded before Flop
+Seat 5: zloober (big blind) folded before Flop
+Seat 6: PureAtHeart folded before Flop (didn't bet)
+Seat 7: Gust8077 collected (560)
+Seat 9: T$ymbal folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612831825: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:44:19 BRT [2015/11/10 11:44:19 ET]
+Table '1376137207 3' 9-max Seat #4 is the button
+Seat 1: tito18c (4159 in chips) 
+Seat 2: Rad_mirr (5753 in chips) 
+Seat 3: leader2151 (2219 in chips) 
+Seat 4: Carstie71 (1222 in chips) 
+Seat 5: zloober (1346 in chips) 
+Seat 6: PureAtHeart (1831 in chips) 
+Seat 7: Gust8077 (1885 in chips) 
+Seat 9: T$ymbal (3759 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+zloober: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+T$ymbal: posts the ante 20
+zloober: posts small blind 80
+PureAtHeart: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [2c Ks]
+Gust8077: folds 
+T$ymbal: folds 
+tito18c: folds 
+Rad_mirr: folds 
+leader2151: folds 
+Carstie71: folds 
+zloober: folds 
+Uncalled bet (80) returned to PureAtHeart
+PureAtHeart collected 320 from pot
+PureAtHeart: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: tito18c folded before Flop (didn't bet)
+Seat 2: Rad_mirr folded before Flop (didn't bet)
+Seat 3: leader2151 folded before Flop (didn't bet)
+Seat 4: Carstie71 (button) folded before Flop (didn't bet)
+Seat 5: zloober (small blind) folded before Flop
+Seat 6: PureAtHeart (big blind) collected (320)
+Seat 7: Gust8077 folded before Flop (didn't bet)
+Seat 9: T$ymbal folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612852738: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:44:45 BRT [2015/11/10 11:44:45 ET]
+Table '1376137207 3' 9-max Seat #5 is the button
+Seat 1: tito18c (4139 in chips) 
+Seat 2: Rad_mirr (5733 in chips) 
+Seat 3: leader2151 (2199 in chips) 
+Seat 4: Carstie71 (1202 in chips) 
+Seat 5: zloober (1246 in chips) 
+Seat 6: PureAtHeart (2051 in chips) 
+Seat 7: Gust8077 (1865 in chips) 
+Seat 9: T$ymbal (3739 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+zloober: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+T$ymbal: posts the ante 20
+PureAtHeart: posts small blind 80
+Gust8077: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [5s 2s]
+T$ymbal: folds 
+tito18c: folds 
+Rad_mirr: folds 
+leader2151: folds 
+Carstie71: folds 
+zloober: folds 
+PureAtHeart: raises 1871 to 2031 and is all-in
+Gust8077: folds 
+Uncalled bet (1871) returned to PureAtHeart
+PureAtHeart collected 480 from pot
+PureAtHeart: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: tito18c folded before Flop (didn't bet)
+Seat 2: Rad_mirr folded before Flop (didn't bet)
+Seat 3: leader2151 folded before Flop (didn't bet)
+Seat 4: Carstie71 folded before Flop (didn't bet)
+Seat 5: zloober (button) folded before Flop (didn't bet)
+Seat 6: PureAtHeart (small blind) collected (480)
+Seat 7: Gust8077 (big blind) folded before Flop
+Seat 9: T$ymbal folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612871001: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:45:07 BRT [2015/11/10 11:45:07 ET]
+Table '1376137207 3' 9-max Seat #6 is the button
+Seat 1: tito18c (4119 in chips) 
+Seat 2: Rad_mirr (5713 in chips) 
+Seat 3: leader2151 (2179 in chips) 
+Seat 4: Carstie71 (1182 in chips) 
+Seat 5: zloober (1226 in chips) 
+Seat 6: PureAtHeart (2351 in chips) 
+Seat 7: Gust8077 (1685 in chips) 
+Seat 9: T$ymbal (3719 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+zloober: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+T$ymbal: posts the ante 20
+Gust8077: posts small blind 80
+T$ymbal: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [Td 5h]
+tito18c: folds 
+Rad_mirr: folds 
+leader2151: folds 
+Carstie71: folds 
+zloober: folds 
+PureAtHeart: folds 
+Gust8077: folds 
+Uncalled bet (80) returned to T$ymbal
+T$ymbal collected 320 from pot
+T$ymbal: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: tito18c folded before Flop (didn't bet)
+Seat 2: Rad_mirr folded before Flop (didn't bet)
+Seat 3: leader2151 folded before Flop (didn't bet)
+Seat 4: Carstie71 folded before Flop (didn't bet)
+Seat 5: zloober folded before Flop (didn't bet)
+Seat 6: PureAtHeart (button) folded before Flop (didn't bet)
+Seat 7: Gust8077 (small blind) folded before Flop
+Seat 9: T$ymbal (big blind) collected (320)
+
+
+
+PokerStars Hand #143612884792: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:45:24 BRT [2015/11/10 11:45:24 ET]
+Table '1376137207 3' 9-max Seat #7 is the button
+Seat 1: tito18c (4099 in chips) 
+Seat 2: Rad_mirr (5693 in chips) 
+Seat 3: leader2151 (2159 in chips) 
+Seat 4: Carstie71 (1162 in chips) 
+Seat 5: zloober (1206 in chips) 
+Seat 6: PureAtHeart (2331 in chips) 
+Seat 7: Gust8077 (1585 in chips) 
+Seat 9: T$ymbal (3939 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+zloober: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+T$ymbal: posts the ante 20
+T$ymbal: posts small blind 80
+tito18c: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [Qc 5c]
+Rad_mirr: folds 
+leader2151: folds 
+Carstie71: folds 
+zloober: raises 1026 to 1186 and is all-in
+PureAtHeart: raises 1125 to 2311 and is all-in
+Gust8077: folds 
+T$ymbal: folds 
+tito18c: folds 
+Uncalled bet (1125) returned to PureAtHeart
+*** FLOP *** [9h 7d 2d]
+*** TURN *** [9h 7d 2d] [9s]
+*** RIVER *** [9h 7d 2d 9s] [6c]
+*** SHOW DOWN ***
+zloober: shows [5s Ad] (a pair of Nines)
+PureAtHeart: shows [Js Jh] (two pair, Jacks and Nines)
+PureAtHeart collected 2772 from pot
+zloober finished the tournament in 23rd place
+*** SUMMARY ***
+Total pot 2772 | Rake 0 
+Board [9h 7d 2d 9s 6c]
+Seat 1: tito18c (big blind) folded before Flop
+Seat 2: Rad_mirr folded before Flop (didn't bet)
+Seat 3: leader2151 folded before Flop (didn't bet)
+Seat 4: Carstie71 folded before Flop (didn't bet)
+Seat 5: zloober showed [5s Ad] and lost with a pair of Nines
+Seat 6: PureAtHeart showed [Js Jh] and won (2772) with two pair, Jacks and Nines
+Seat 7: Gust8077 (button) folded before Flop (didn't bet)
+Seat 9: T$ymbal (small blind) folded before Flop
+
+
+
+PokerStars Hand #143612912082: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:45:58 BRT [2015/11/10 11:45:58 ET]
+Table '1376137207 3' 9-max Seat #9 is the button
+Seat 1: tito18c (3919 in chips) 
+Seat 2: Rad_mirr (5673 in chips) 
+Seat 3: leader2151 (2139 in chips) 
+Seat 4: Carstie71 (1142 in chips) 
+Seat 6: PureAtHeart (3897 in chips) 
+Seat 7: Gust8077 (1565 in chips) 
+Seat 9: T$ymbal (3839 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+T$ymbal: posts the ante 20
+tito18c: posts small blind 80
+Rad_mirr: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [Kc 5d]
+leader2151: folds 
+Carstie71: folds 
+PureAtHeart: folds 
+Gust8077: raises 1385 to 1545 and is all-in
+T$ymbal: folds 
+tito18c: folds 
+Rad_mirr: folds 
+Uncalled bet (1385) returned to Gust8077
+Gust8077 collected 540 from pot
+Gust8077: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: tito18c (small blind) folded before Flop
+Seat 2: Rad_mirr (big blind) folded before Flop
+Seat 3: leader2151 folded before Flop (didn't bet)
+Seat 4: Carstie71 folded before Flop (didn't bet)
+Seat 6: PureAtHeart folded before Flop (didn't bet)
+Seat 7: Gust8077 collected (540)
+Seat 9: T$ymbal (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #143612926884: Tournament #1376137207, $0.91+$0.09 USD Hold'em No Limit - Level VI (80/160) - 2015/11/10 14:46:16 BRT [2015/11/10 11:46:16 ET]
+Table '1376137207 3' 9-max Seat #1 is the button
+Seat 1: tito18c (3819 in chips) 
+Seat 2: Rad_mirr (5493 in chips) 
+Seat 3: leader2151 (2119 in chips) 
+Seat 4: Carstie71 (1122 in chips) 
+Seat 6: PureAtHeart (3877 in chips) 
+Seat 7: Gust8077 (1925 in chips) 
+Seat 9: T$ymbal (3819 in chips) 
+tito18c: posts the ante 20
+Rad_mirr: posts the ante 20
+leader2151: posts the ante 20
+Carstie71: posts the ante 20
+PureAtHeart: posts the ante 20
+Gust8077: posts the ante 20
+T$ymbal: posts the ante 20
+Rad_mirr: posts small blind 80
+leader2151: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Gust8077 [6s Ac]
+Carstie71: folds 
+PureAtHeart: folds 
+Gust8077: raises 1745 to 1905 and is all-in
+T$ymbal: folds 
+tito18c: folds 
+Rad_mirr: raises 3568 to 5473 and is all-in
+leader2151: folds 
+Uncalled bet (3568) returned to Rad_mirr
+*** FLOP *** [Qd 5h 8c]
+*** TURN *** [Qd 5h 8c] [Qh]
+*** RIVER *** [Qd 5h 8c Qh] [Js]
+*** SHOW DOWN ***
+Rad_mirr: shows [Kc Ah] (a pair of Queens)
+Gust8077: shows [6s Ac] (a pair of Queens - lower kicker)
+Rad_mirr collected 4110 from pot
+Gust8077 finished the tournament in 22nd place
+*** SUMMARY ***
+Total pot 4110 | Rake 0 
+Board [Qd 5h 8c Qh Js]
+Seat 1: tito18c (button) folded before Flop (didn't bet)
+Seat 2: Rad_mirr (small blind) showed [Kc Ah] and won (4110) with a pair of Queens
+Seat 3: leader2151 (big blind) folded before Flop
+Seat 4: Carstie71 folded before Flop (didn't bet)
+Seat 6: PureAtHeart folded before Flop (didn't bet)
+Seat 7: Gust8077 showed [6s Ac] and lost with a pair of Queens
+Seat 9: T$ymbal folded before Flop (didn't bet)
+
+
+
